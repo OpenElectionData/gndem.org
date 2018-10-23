@@ -1,0 +1,38 @@
+---
+abbr: GNDEM
+title: Global Network of Domestic Election Monitors
+email: gndem09@gmail.com
+description: The Global Network of Domestic Election Monitors connects over 245 regional
+  networks and individual nonpartisan citizen observation groups to share best practices
+  and further our common aspirations for representative, responsive, transparent,
+  democratic governance.
+baseurl: ''
+url: https://www.gndem.org
+facebook_username: GNDEM
+twitter_username: gndemexchanges
+show_excerpts: true
+date_format: "%B %-d, %Y"
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+markdown: kramdown
+plugins:
+- jekyll-feed
+sass:
+  style: compressed
+languages:
+- en
+- es
+- fr
+- ar
+- ru
+default_lang: en
+exclude_from_localization:
+- javascript
+- images
+- css
+parallel_localization: true
+timezone: Etc/UTC

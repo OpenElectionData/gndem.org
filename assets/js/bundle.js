@@ -14,7 +14,12 @@ function notificationBar() {
 }
 
 function htmlTableOfContents() {
-    const toc = document.getElementById("table-of-contents");
+	const toc = document.getElementById("table-of-contents");
+	
+	if (!toc) {
+		return;
+	}
+
 	const headings = Array.from(document.body.querySelectorAll('.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6'));
 	let currentLevel = 0
 	let tocHTML = '<ul>'

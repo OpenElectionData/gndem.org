@@ -13,6 +13,7 @@ twitter_username: gndemexchanges
 cloudinary_url: https://res.cloudinary.com/gndem/image/upload/
 show_excerpts: true
 date_format: "%B %-d, %Y"
+show_tags: false
 collections:
   posts:
     title: Stories
@@ -29,7 +30,7 @@ defaults:
     permalink: "/stories/:slug/"
 markdown: kramdown
 plugins:
-- jekyll-feed
+- jekyll-archives
 sass:
   style: compressed
 languages:
@@ -44,4 +45,10 @@ exclude_from_localization:
 - images
 - css
 parallel_localization: true
+jekyll-archives:
+  enabled:
+  - tags
+  layout: archives
+  permalinks:
+    tag: "/tag/:name/"
 timezone: Etc/UTC

@@ -13,6 +13,13 @@ twitter_username: gndemexchanges
 cloudinary_url: https://res.cloudinary.com/gndem/image/upload/
 show_excerpts: true
 date_format: "%B %-d, %Y"
+collections:
+  posts:
+    title: Stories
+    output: true
+  members:
+    title: Members
+    output: false
 defaults:
 - scope:
     path: ''

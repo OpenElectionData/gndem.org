@@ -2,9 +2,9 @@
 region: LAC
 country: Argentina
 name: Poder Ciudadano / Citizen Power
-acronym: 
+acronym:
 is_member: yes
-no_gndem_member_countries: 
+no_gndem_member_countries:
 regional_network: Acuerdo de Lima
-website: www.poderciudadano.org
+website: https://www.poderciudadano.org
 ---

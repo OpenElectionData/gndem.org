@@ -4,7 +4,7 @@ country: Armenia
 name: Transparency International Anticorruption Center
 acronym: TI
 is_member: yes
-no_gndem_member_countries: 
+no_gndem_member_countries:
 regional_network: EPDE
-website: www.transparency.am
+website: https://www.transparency.am
 ---

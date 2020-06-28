@@ -38,12 +38,13 @@ defaults:
 markdown: kramdown
 plugins:
   - jekyll-feed
-sass:
+sass: 
   style: compressed
+  sourcemap: never
 
 languages: ["en", "es", "fr", "ar", "ru"]
 default_lang: "en"
-exclude_from_localization: ["javascript", "images", "css"]
+exclude_from_localization: ["assets","javascript", "images", "css"]
 parallel_localization: true
 
 jekyll-archives:

@@ -4,7 +4,7 @@ country: Kenya
 name: Kenya Human Rights Commission (KHRC)
 acronym: KHRC
 is_member: yes
-no_gndem_member_countries: 
+no_gndem_member_countries:
 regional_network: E-HORN
-website: www.khrc.or.ke
+website: https://www.khrc.or.ke
 ---

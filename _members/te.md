@@ -4,7 +4,7 @@ country: Argentina
 name: Transparencia Electoral
 acronym: TE
 is_member: yes
-no_gndem_member_countries: 
+no_gndem_member_countries:
 regional_network: Acuerdo de Lima
-website: www.transparenciaelectoral.org
+website: https://www.transparenciaelectoral.org
 ---

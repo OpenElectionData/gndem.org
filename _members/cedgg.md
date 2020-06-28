@@ -4,7 +4,7 @@ country: Kenya
 name: Center for Enhancing Democracy and Good Governance (CEDGG)
 acronym: CEDGG
 is_member: yes
-no_gndem_member_countries: 
+no_gndem_member_countries:
 regional_network: E-HORN
-website: www.cedgg.org
+website: https://www.cedgg.org
 ---

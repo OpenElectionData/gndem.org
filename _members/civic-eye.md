@@ -2,9 +2,9 @@
 region: CEE
 country: Slovakia
 name: Obcianske Oko / Civic Eye
-acronym: 
+acronym:
 is_member: yes
-no_gndem_member_countries: 
+no_gndem_member_countries:
 regional_network: ENEMO
-website: www.obcianskeoko.sk
+website: https://www.obcianskeoko.sk
 ---

@@ -1,10 +1,10 @@
 ---
 region: MENA
-country: West Bank / Gaza 
+country: West Bank / Gaza
 name: Itijah Organization
-acronym: 
+acronym:
 is_member: Yes
-no_gndem_member_countries: 
-regional_network: 
-website: www.itijah.org
+no_gndem_member_countries:
+regional_network:
+website: https://www.itijah.org
 ---

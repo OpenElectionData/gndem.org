@@ -1,7 +1,7 @@
 ---
 title: Civil Network OPORA Builds Outreach Through Innovative Media Partnerships in
   Ukraine
-date: 2020-07-02 20:00:00 +0000
+date: 2020-07-02 21:07:00 +0000
 image: https://res.cloudinary.com/gndem/image/upload/v1593100378/gndem/OPORA_1_cabzoq.png
 excerpt: OPORA has led voter education campaigns and election monitoring activities
   to support credible elections in Ukraine for over 14 years. In 2019, through partnerships

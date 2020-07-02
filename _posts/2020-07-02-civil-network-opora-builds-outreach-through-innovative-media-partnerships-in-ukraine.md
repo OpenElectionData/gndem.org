@@ -17,7 +17,7 @@ Since the Revolution of Dignity in 2013-2014, Ukraine has seen five national ele
 
 Throughout, OPORA has led voter education campaigns and election monitoring activities to support the country’s young democracy. In 2019, OPORA and international observers determined that presidential and snap parliamentary elections were credible, though observers identified violations throughout the electoral process. As part of their voter education efforts, OPORA conducted robust campaigns in partnership with local media networks. The 2019 awareness raising campaign was the most successful in the organization’s 14-year history, which saw three times the number of mentions on traditional and social media as compared to the 2014 campaign.
 
-![OPORA employed comedy and storytelling techniques for critical voter education](https://res.cloudinary.com/gndem/image/upload/v1593100553/gndem/OPORA_2_y1xmnw.png "OPORA Voter Education Video")
+![(Photo: OPORA)](https://res.cloudinary.com/gndem/image/upload/v1593100553/gndem/OPORA_2_y1xmnw.png "OPORA employed comedy and storytelling techniques for critical voter education")
 
 > _OPORA employed comedy and storytelling techniques to develop innovative voter education campaigns (Photo: OPORA)_
 

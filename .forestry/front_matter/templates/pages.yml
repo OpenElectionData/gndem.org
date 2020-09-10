@@ -12,3 +12,5 @@ fields:
 - type: text
   name: permalink
   label: permalink
+pages:
+- sample-covid-19-resources.md

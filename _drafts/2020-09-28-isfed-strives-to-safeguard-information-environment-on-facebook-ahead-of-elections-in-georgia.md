@@ -1,7 +1,7 @@
 ---
 title: ISFED Strives to Safeguard Information Environment on Facebook Ahead of Elections
   in Georgia
-date: 2020-09-28 20:00:00 +0000
+date: 2020-09-28 19:00:00 +0000
 image: https://res.cloudinary.com/gndem/image/upload/v1601316084/gndem/newsfront_dch9ao.png
 excerpt: The manipulation of the information environment has been a powerful tool
   for undermining democratic principles and electoral integrity around the world.

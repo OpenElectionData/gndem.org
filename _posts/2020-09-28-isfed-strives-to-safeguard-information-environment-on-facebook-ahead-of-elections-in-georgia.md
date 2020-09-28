@@ -12,7 +12,8 @@ excerpt: The manipulation of the information environment has been a powerful too
   behavior on social media in the lead up to the October 2020 parliamentary elections
   and in between the electoral cycle.
 tags:
-- Parliament
+- Global
+- Eurasia
 - ISFED
 
 ---

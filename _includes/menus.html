@@ -1,6 +1,6 @@
 <ul class="main-menu">
   {% for item in site.menus.header %} {% assign title =
-  site.data.strings.strings[item.title] %}
+  site.data.strings[item.title] %}
   <li class="menu-item-{{ loop.index }}">
     <a href="{{ item.url | relative_url }}" title="Go to {{ item.title }}"
       >{{ title }}</a

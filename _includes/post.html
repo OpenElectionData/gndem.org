@@ -9,7 +9,7 @@
   	{% if post.image != '' %}
   	<a href="{{ post.url | relative_url }}"><img src="{{ post.image | relative_url }}" class="post-feature-img" alt="{{ post.title | escape }}" title="{{ post.title | escape }}" /></a>
     {% endif %}
-    <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url | relative_url }}" class="read-more">{{ site.data.strings.strings.continue_reading }}</a></p>
+    <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url | relative_url }}" class="read-more">{{ site.data.strings.continue_reading }}</a></p>
   {%- endif -%}
   <div class="clearfix"></div>
 </article>

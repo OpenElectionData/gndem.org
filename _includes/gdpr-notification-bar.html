@@ -3,21 +3,19 @@
     <div class="row">
       <div class="notification-body col-xs-12 col-md-8">
         <span class="notification-bar-header"
-          >{{ site.data.strings.strings.gdpr_heading }}</span
+          >{{ site.data.strings.gdpr_heading }}</span
         >
-        <p class="notification-bar-desc">
-          {{ site.data.strings.strings.gdpr_desc }}
-        </p>
+        <p class="notification-bar-desc">{{ site.data.strings.gdpr_desc }}</p>
       </div>
       <div class="notification-buttons col-xs-12 col-md-4">
         <button class="btn btn-yellow btn-hide">
-          {{ site.data.strings.strings.gdpr_hide }}
+          {{ site.data.strings.gdpr_hide }}
         </button>
         {% assign infoURL = "/privacy-policy/" %}
         <a
           class="btn btn-gray btn-more-info"
           href="{{ infoURL | relative_url }}"
-          >{{ site.data.strings.strings.gdpr_more_info }}</a
+          >{{ site.data.strings.gdpr_more_info }}</a
         >
       </div>
     </div>

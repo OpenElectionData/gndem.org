@@ -44,7 +44,7 @@ layout: default
   <footer class="post-footer">
     {%- if site.show_tags and page.tags.size > 0 -%}
     <div class="tag-list">
-      <span class="tag-list__title">{{ site.data.strings.strings.tags }}</span>
+      <span class="tag-list__title">{{ site.data.strings.tags }}</span>
       <ul>
         {% for tag in page.tags %} {%- assign tag_url = tag | slugify %}
         <li class="tag-list__tag">

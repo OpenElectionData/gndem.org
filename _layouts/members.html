@@ -9,7 +9,7 @@ layout: default
 
   {{ content }}
 
-  <h3>{{ site.data.strings.strings.regional_networks }}</h3>
+  <h3>{{ site.data.strings.regional_networks }}</h3>
   <ul>
     {% for member in site.data.regional_networks %}
     <li>{{ member.name }}</li>
@@ -17,18 +17,14 @@ layout: default
   </ul>
 
   <br />
-  <h3>{{ site.data.strings.strings.members }}</h3>
+  <h3>{{ site.data.strings.members }}</h3>
   <table id="members_table">
     <thead>
       <tr>
-        <th style="width: 5%">{{ site.data.strings.strings.country }}</th>
-        <th style="width: 60%">
-          {{ site.data.strings.strings.organization_name }}
-        </th>
-        <th style="width: 15%">
-          {{ site.data.strings.strings.organization_acronym }}
-        </th>
-        <th style="width: 20%">{{ site.data.strings.strings.website }}</th>
+        <th style="width: 5%">{{ site.data.strings.country }}</th>
+        <th style="width: 60%">{{ site.data.strings.organization_name }}</th>
+        <th style="width: 15%">{{ site.data.strings.organization_acronym }}</th>
+        <th style="width: 20%">{{ site.data.strings.website }}</th>
       </tr>
     </thead>
     <tbody>
@@ -42,7 +38,7 @@ layout: default
             href="{{ member.website }}"
             target="_blank"
             rel="nofollow"
-            >{{ site.data.strings.strings.visit_url }}</a
+            >{{ site.data.strings.visit_url }}</a
           >{%- endif -%}
         </td>
       </tr>

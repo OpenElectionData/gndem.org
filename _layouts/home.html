@@ -5,12 +5,15 @@ layout: sidebar
 <div class="home">
   {%- if site.posts.size > 0 -%}
   <section class="post-list">
-    <h2 class="post-list-heading">{{ page.list_title | default: site.data.strings.home_latest_title }}</h2>
-    {% assign recent = site.posts | sort: 'date' | reverse %}
-    {% for post in recent limit: 3 %}
-      {% include post.html %}
-    {% endfor %}
-    <a href="{{ '/members' | relative_url }}" class="read-all">{{ site.data.strings.read_all }}</a>
+    <h2 class="post-list-heading">
+      {{ page.list_title | default: site.data.strings.strings.home_latest_title
+      }}
+    </h2>
+    {% assign recent = site.posts | sort: 'date' | reverse %} {% for post in
+    recent limit: 3 %} {% include post.html %} {% endfor %}
+    <a href="{{ '/members' | relative_url }}" class="read-all"
+      >{{ site.data.strings.strings.read_all }}</a
+    >
   </section>
   {%- endif -%}
 </div>

@@ -28,6 +28,3 @@ header:
   - identifier: about
     url: "/about"
     title: menu_about
-  - identifier: about
-    url: "/about"
-    title: menu_about

@@ -1,39 +1,43 @@
 ---
 layout: default
 ---
+
 <article class="page row declaration">
+  <header class="post-header col-xs-12">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
 
-	<header class="post-header col-xs-12">
-		<h1 class="post-title">{{ page.title | escape }}</h1>
-	</header>
+  <aside class="col-xs-12 col-md-4 declaration-sidebar">
+    <div class="sidebar-contents">
+      <h2 class="subheading">
+        {{ site.data.strings.strings.table_of_contents }}
+      </h2>
+      <div id="table-of-contents"></div>
+      {% assign pdf_url = site.active_lang | prepend: "/assets/pdfs/DoGP_" |
+      append: ".pdf" %}
+      <a href="{{ pdf_url | relative_url }}" class="btn btn-download"
+        >{{ site.data.strings.strings.download_declaration }}</a
+      >
+    </div>
+  </aside>
 
-	<aside class="col-xs-12 col-md-4 declaration-sidebar">
-		<div class="sidebar-contents">
-			<h2 class="subheading">{{ site.data.strings.table_of_contents }}</h2>
-			<div id="table-of-contents"></div>
-			{% assign pdf_url = site.active_lang | prepend: "/assets/pdfs/DoGP_" | append: ".pdf" %}
-			<a href="{{ pdf_url | relative_url }}" class="btn btn-download">{{ site.data.strings.download_declaration }}</a>
-		</div>
-	</aside>
+  <section class="post-content col-xs-12 col-md-8">
+    {{ content }}
 
-	<section class="post-content col-xs-12 col-md-8">
-		{{ content }}
+    <section class="declaration-signatories">
+      <h3>{{ site.data.strings.strings.endorsing_networks }}</h3>
+      <ul>
+        {% for member in site.data.principles_networks %}
+        <li>{{ member }}</li>
+        {% endfor %}
+      </ul>
 
-		<section class="declaration-signatories">
-			<h3>{{ site.data.strings.endorsing_networks }}</h3>
-			<ul>
-				{% for member in site.data.principles_networks %}
-				<li>{{ member }}</li>
-				{% endfor %}
-			</ul>
-
-			<h3>{{ site.data.strings.supporting_organizations }}</h3>
-			<ul>
-				{% for member in site.data.principles_organizations %}
-				<li>{{ member }}</li>
-				{% endfor %}
-			</ul>
-		</section>
-	</section>
-
+      <h3>{{ site.data.strings.strings.supporting_organizations }}</h3>
+      <ul>
+        {% for member in site.data.principles_organizations %}
+        <li>{{ member }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+  </section>
 </article>

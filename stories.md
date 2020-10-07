@@ -1,6 +1,7 @@
 ---
 layout: stories
 title: Stories
+lang: en
 permalink: "/stories/"
 ---
 

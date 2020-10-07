@@ -1,38 +1,35 @@
 ---
-header:
-- identifier: about
-  url: "/about"
-  weight: 2
-  title: menu_about
-- identifier: stories
-  url: "/stories"
-  weight: 3
-  title: menu_stories
-- identifier: members
-  url: "/members"
-  weight: 4
-  title: menu_members
-
 languages:
-- identifier: en
-  title: English
-  url: "/"
-  weight: 1
-- identifier: es
-  title: Español
-  url: "/es"
-  weight: 2
-- identifier: fr
-  title: Français
-  url: "/fr"
-  weight: 3
-- identifier: ar
-  title: العربية
-  url: "/ar"
-  weight: 4
 - identifier: ru
   title: Русский
   url: "/ru"
   weight: 5
-
-  
+- identifier: ar
+  title: العربية
+  url: "/ar"
+  weight: 4
+- identifier: fr
+  title: Français
+  url: "/fr"
+  weight: 3
+- identifier: es
+  title: Español
+  url: "/es"
+  weight: 2
+- identifier: en
+  title: English
+  url: "/"
+  weight: 1
+header:
+- identifier: members
+  url: "/members"
+  weight: 4
+  title: menu_members
+- identifier: stories
+  url: "/stories"
+  weight: 3
+  title: menu_stories
+- identifier: about
+  url: "/about"
+  weight: 2
+  title: menu_about

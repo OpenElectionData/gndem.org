@@ -5,6 +5,11 @@ fields:
 - type: text
   name: menu
   label: menu
+- name: menu_resources
+  type: text
+  config:
+    required: false
+  label: Menu Resources
 - type: text
   name: menu_home
   label: menu_home

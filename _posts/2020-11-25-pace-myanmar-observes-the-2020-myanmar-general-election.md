@@ -8,10 +8,7 @@ excerpt: Myanmar’s November 8, 2020 general elections, the second conducted si
   led by Aung San Suu Kyi, forming the first government in decades in which civilians
   have control over the majority of cabinet ministries. GNDEM member People's Alliance
   for Credible Elections Myanmar (PACE), the country’s largest local observer group,
-  monitored the electoral process before, during and after election day, focusing
-  on topics of inclusiveness, transparency, and accountability, and making important
-  contributions to its mission to safeguard citizen rights and promote public participation
-  particularly under the unique circumstances.
+  monitored the electoral process before, during and after election day.
 tags:
 - Global
 - COVID-19

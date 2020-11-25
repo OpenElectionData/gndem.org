@@ -1,0 +1,9 @@
+---
+title: PACE Myanmar Observes the 2020 Myanmar General Election
+date: 2020-11-25 23:00:00 +0000
+image: ''
+excerpt: ''
+tags: []
+
+---
+Myanmar’s November 8, 2020 general elections, the second conducted since the military relinquished absolute power in 2011, were a significant milestone. They followed the 2015 elections, which resulted in the National League for Democracy, led by Aung San Suu Kyi, forming the first government in decades in which civilians have control over the majority of cabinet ministries. GNDEM member [People’s Alliance for Credible Elections Myanmar (PACE)](https://www.pacemyanmar.org/home/ "pace homepage"), the country’s largest local observer group, monitored the electoral process before, during and after election day, focusing on topics of inclusiveness, transparency, and accountability, and making important contributions to its mission to safeguard citizen rights and promote public participation particularly under the unique circumstances. PACE found that the election day process was peaceful, and no major incidents were recorded. However, the context included continuing to reserve a significant number of parliamentary seats for the military’s appointees and over two million people were excluded from the electoral process because of conflict and discrimination. The general elections also presented a significant challenge for the Union Election Commission (UEC), political parties and candidates, and citizen and international observers in the face of COVID-19. In response to the pandemic, PACE developed a virtual training methodology for observers that ensure the quality of their work while respecting social distancing restrictions and minimizing the health risks to observers and the broader community.

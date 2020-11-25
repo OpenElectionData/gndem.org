@@ -1,6 +1,6 @@
 ---
 title: PACE Myanmar Observes the 2020 Myanmar General Elections
-date: 2020-11-25 18:00:00 +0000
+date: 2020-11-25 17:00:00 +0000
 image: https://res.cloudinary.com/gndem/image/upload/v1606325491/gndem/pacemyanmarphoto4_di37r6.jpg
 excerpt: Myanmar’s November 8, 2020 general elections, the second conducted since
   the military relinquished absolute power in 2011, were a significant milestone.

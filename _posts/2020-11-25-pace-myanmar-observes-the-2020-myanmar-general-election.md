@@ -10,7 +10,6 @@ excerpt: Myanmar’s November 8, 2020 general elections, the second conducted si
   for Credible Elections Myanmar (PACE), the country’s largest local observer group,
   monitored the electoral process before, during and after election day.
 tags:
-- Global
 - COVID-19
 - Asia
 - PACE

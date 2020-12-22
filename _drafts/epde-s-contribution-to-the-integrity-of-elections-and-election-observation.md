@@ -2,9 +2,15 @@
 title: EPDE’s Contribution to the Integrity of Elections and Election Observation
 date: 2020-12-22 21:00:00 +0000
 image: ''
-excerpt: ''
+excerpt: 'Over the past 1.5 years, the EPDE has developed an Electoral Integrity Database.
+  The goal is also to provide EPDE members with a unique and powerful tool to track
+  democratic electoral reforms in their countries and to reveal mechanisms which endanger
+  democratic processes in the region. This database will promote domestic election
+  experts’ recommendations that seek to strengthen democratic electoral reforms and
+  improve electoral integrity, while denouncing messages of politically biased election
+  observers who discredit findings of established election observation missions and
+  whitewash fraudulent elections or legitimize illegitimate elections. '
 tags:
-- EMDS
 - Eurasia
 - Central & Eastern Europe
 - EPDE
@@ -16,7 +22,7 @@ In recent years, we have witnessed attempts of politically biased “election ob
 
 Since its establishment in 2012, the [European Platform for Democratic Elections (EPDE)](https://www.epde.org/en/ "EPDE website"), a network of 14 citizen election observation organizations working in the EU’s Eastern Partnership countries and the Russian Federation, supports citizen election observers in their advocacy efforts to safeguard democratic elections and the institution of independent domestic election monitoring. EPDE supports the collaboration between domestic citizen observers and established international election observation institutions, such as ODIHR-OSCE and the Council of Europe, to guarantee that transparency and highest methodological standards are applied to support democratic elections in the region.
 
-Over the past 1.5 years, the EPDE has developed an [“Electoral Integrity Database.”](https://www.electoral-integrity.org/ "EDPE Electoral Integrity Database") This database will promote domestic election experts’ recommendations that seek to strengthen democratic electoral reforms and improve electoral integrity, while denouncing messages of politically biased election observers who discredit findings of established election observation missions and whitewash fraudulent elections or legitimize illegitimate elections. The goal is also to provide the EPDE members with a unique and powerful tool to track democratic electoral reforms in their countries and to reveal mechanisms which endanger democratic processes in the region.
+Over the past 1.5 years, the EPDE has developed an [“Electoral Integrity Database.”](https://www.electoral-integrity.org/ "EDPE Electoral Integrity Database") This database will promote domestic election experts’ recommendations that seek to strengthen democratic electoral reforms and improve electoral integrity, while denouncing messages of politically biased election observers who discredit findings of established election observation missions and whitewash fraudulent elections or legitimize illegitimate elections. The goal is also to provide EPDE members with a unique and powerful tool to track democratic electoral reforms in their countries and to reveal mechanisms which endanger democratic processes in the region.
 
 The database, which is accessible through [EPDE's website](https://db.epde.org/ "EPDE Databases"), consists of two main sections: a) [Catalogue of Recommendations on Electoral Reform](https://www.electoral-reform.org/recommendations-on-electoral-reform.html "EPDE Catalogue of Recommendations on Electoral Reform") and b) [Database of Politically Biased Election Observers.](https://www.fakeobservers.org/politically-biased-election-observers.html "EPDE Database of Politically Biased Election Observers")
 

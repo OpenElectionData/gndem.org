@@ -63,5 +63,3 @@ Through the launch of this open source database EPDE builds on this previous suc
 **Kira Moessinger**
 
 **moessinger@european-exchange.org**
-
-**004915164617801**

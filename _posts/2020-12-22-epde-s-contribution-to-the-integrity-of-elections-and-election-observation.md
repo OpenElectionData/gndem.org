@@ -44,7 +44,7 @@ The database, which was developed with expert Tatyana Hilscher-Bogussevich, aims
 
 To bring this subject even more into the public and decision makers’ eye, EDPE made a [short, animated film](https://youtu.be/eE2MV68WT7o "film") to explain fake election observation in a playful and simple manner.
 
-![(EDPE YouTube)](https://res.cloudinary.com/gndem/image/upload/v1608661477/gndem/Screenshot_fake_observer_media_gscwtc.jpg "What is politically biased (or fake) election observation? ")
+![(EPDE YouTube)](https://res.cloudinary.com/gndem/image/upload/v1608661477/gndem/Screenshot_fake_observer_media_gscwtc.jpg "What is politically biased (or fake) election observation? ")
 
 The database was based on [reports of Anton Shekhovtsov](https://www.epde.org/en/documents/category/observe-the-observer-16.html) who has researched politically motivated election observation worldwide, yet with a particular focus on how this has been used as a Russian means to meddle in international elections. Shekhovtsov shows how politically biased observers legitimize fraudulent elections both in Russia itself and in other states of the region, where autocratic regimes try to legitimize illegitimate elections.
 

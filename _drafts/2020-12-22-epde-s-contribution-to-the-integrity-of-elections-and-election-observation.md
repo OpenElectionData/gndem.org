@@ -1,7 +1,7 @@
 ---
 title: EPDE’s Contribution to the Integrity of Elections and Election Observation
 date: 2020-12-22 18:00:00 +0000
-image: ''
+image: https://res.cloudinary.com/gndem/image/upload/v1608661477/gndem/Screenshot_fake_observer_media_gscwtc.jpg
 excerpt: 'Over the past 1.5 years, the EPDE has developed an “Electoral Integrity
   Database." The goal of the database is to provide EPDE members with a unique and
   powerful tool to track democratic electoral reforms in their countries and to reveal

@@ -26,7 +26,7 @@ Since its establishment in 2012, the [European Platform for Democratic Elections
 
 Over the past 1.5 years, the EPDE has developed an **“Electoral Integrity Database”. The goal of the database is to provide EPDE members with a unique and powerful tool to track democratic electoral reforms in their countries and to reveal mechanisms which endanger democratic processes in the region.** This database will also promote domestic election experts’ recommendations that seek to strengthen democratic electoral reforms and improve electoral integrity, while denouncing messages of politically biased election observers who discredit findings of established election observation missions and whitewash fraudulent elections or legitimize illegitimate elections.
 
-The database, which is accessible through [EDPE’s website](https://db.epde.org/ "EPDE"), consists of two main sections: a) [Catalogue of Recommendations on Electoral Reform](https://www.electoral-reform.org/recommendations-on-electoral-reform.html "EPDE") and b) [Database of Politically Biased Election Observers](https://www.fakeobservers.org/politically-biased-election-observers.html "EPDE").
+The database, which is accessible through [EPDE’s website](https://db.epde.org/ "EPDE"), consists of two main sections: a) [Catalogue of Recommendations on Electoral Reform](https://www.electoral-reform.org/recommendations-on-electoral-reform.html "EPDE") and b) [Database of Politically Biased Election Observers](https://www.fakeobservers.org/politically-biased-election-observers.html "EPDE").
 
 The database is intended to be used by election experts and observers as a researchable archive and information source on electoral reform recommendations that have been issued over the last decade. For journalists and decision makers, this database is a valuable tool that can facilitate research on international actors, often members of parliaments and other prominent institutions, who misuse the institution of international observation for their own political interests and interests of authorities who want to cover-up electoral fraud. This database should bring these two issues – recommendations on democratic election reforms and findings on politically biased election observation – to the attention of democratic societies and relevant national and international decision makers.
 
@@ -42,7 +42,7 @@ The database, which was developed with expert Tatyana Hilscher-Bogussevich, aims
 
 [This database’s](https://www.fakeobservers.org/politically-biased-election-observers.html "database") purpose is to provide unbiased and regularly updated information for researchers, journalists, and politicians on the systematic misuse of the instrument of election observation by politically biased actors. EPDE reports have received significant media attention and have contributed to raise political awareness for this subject.
 
-To bring this subject even more into the public and decision makers’ eye, EDPE made a [short, animated film](https://youtu.be/eE2MV68WT7o "film") to explain fake election observation in a playful and simple manner.
+To bring this subject even more into the public and decision makers’ eye, EPDE made a [short, animated film](https://youtu.be/eE2MV68WT7o "film") to explain fake election observation in a playful and simple manner.
 
 ![(EPDE YouTube)](https://res.cloudinary.com/gndem/image/upload/v1608661477/gndem/Screenshot_fake_observer_media_gscwtc.jpg "What is politically biased (or fake) election observation? ")
 

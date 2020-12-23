@@ -56,3 +56,11 @@ The presidential elections in Azerbaijan in 2013 were marked by grave irregulari
 EPDE organized round table discussions in the European Parliament, the Council of Europe, and the German Bundestag; and started to conduct regular research on the international networks participating in politically motivated election observation. Doing that Through these discussions and research, EPDE learned that there was a core group of often right or left wing politicians of several European parliaments (national and regional ones) accepting invitations from authoritarian states or their NGO proxies to participate in election observation missions with the aim to justify election fraud and to discredit independent and critical monitors. In 2018, EPDE contributed to the investigation of internal corruption in the Council of Europe which was closely linked to politically motivated and externally financed election observation among the PACE. This campaign was successful, resulting in a change of the Code of Conduct of the PACE and the sanctioning of several PACE politicians involved in the corruption scheme. EPDE now continues these efforts to raise awareness for the importance of clear control and sanction mechanisms also within European national and regional parliaments.
 
 Through the launch of this open source database EPDE builds on this previous success and intends to increase public awareness of the efforts of independent citizen election monitors and of the misuse of the instrument of international election observation for political interests. EPDE encourages parliaments to improve their Codes of Conduct and to include smart sanction mechanisms for those parliamentarians who misuse their office by participating in politically motivated election observation.
+
+Contact: 
+
+Kira Moessinger
+
+moessinger@european-exchange.org
+
+004915164617801

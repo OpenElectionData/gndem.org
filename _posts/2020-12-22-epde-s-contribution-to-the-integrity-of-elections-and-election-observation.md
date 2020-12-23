@@ -1,5 +1,6 @@
 ---
-title: EPDE’s Contribution to the Integrity of Elections and Election Observation
+title: 'Regional Network''s Special Report: EPDE’s Contribution to the Integrity of
+  Elections and Election Observation'
 date: 2020-12-23 18:00:00 +0000
 image: https://res.cloudinary.com/gndem/image/upload/v1608661477/gndem/Screenshot_fake_observer_media_gscwtc.jpg
 excerpt: 'Over the past 1.5 years, the EPDE has developed an “Electoral Integrity
@@ -57,10 +58,10 @@ EPDE organized round table discussions in the European Parliament, the Council o
 
 Through the launch of this open source database EPDE builds on this previous success and intends to increase public awareness of the efforts of independent citizen election monitors and of the misuse of the instrument of international election observation for political interests. EPDE encourages parliaments to improve their Codes of Conduct and to include smart sanction mechanisms for those parliamentarians who misuse their office by participating in politically motivated election observation.
 
-Contact: 
+**Contact:** 
 
-Kira Moessinger
+**Kira Moessinger**
 
-moessinger@european-exchange.org
+**moessinger@european-exchange.org**
 
-004915164617801
+**004915164617801**

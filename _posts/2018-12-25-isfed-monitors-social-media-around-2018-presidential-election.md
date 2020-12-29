@@ -1,11 +1,13 @@
 ---
 title: ISFED Monitors Social Media Around 2018 Presidential Election
-date: 2018-12-27 05:00:00 +0000
+date: 2018-12-27T05:00:00.000+00:00
 image: https://res.cloudinary.com/gndem/image/upload/v1545857923/gndem/NUMBER%20OF%20PAGES%20DISCREDITING%20PRESIDENTIAL%20CANDIDATES.png
 excerpt: Given emerging issues and concerns in Georgia, ISFED used the 2018 presidential
   election to pilot a new initiative - monitoring social media during the pre-election
   period.
 tags:
+- Information environment
+- Election day observation
 - ISFED
 
 ---

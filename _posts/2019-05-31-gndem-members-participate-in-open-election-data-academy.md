@@ -1,12 +1,13 @@
 ---
 title: GNDEM Members Participate in Open Election Data Academy
-date: 2019-05-31 19:00:00 +0000
+date: 2019-05-31T19:00:00.000+00:00
 image: https://res.cloudinary.com/gndem/image/upload/v1559326604/gndem/DSC03000.jpg
 excerpt: " From March 31 to April 3, 2019, representatives from citizen election observer
   groups from around the world, including several GNDEM member organizations, gathered
   in Bogota, Colombia to participate in an Open Election Data Academy conducted by
   the National Democratic Institute (NDI)."
 tags:
+- Open election data
 - Global
 
 ---

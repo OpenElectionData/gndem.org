@@ -1,11 +1,12 @@
 ---
 title: GNDEM and ANFREL Condemn the Abduction and Murder of Afghan Election Observer
-date: 2019-10-23 16:00:00 +0000
+date: 2019-10-23T16:00:00.000+00:00
 image: ''
 excerpt: Statement by the Global Network of Domestic Election Monitors (GNDEM) and
   the Asian Network for Free Elections (ANFREL) on the abduction and murder of Afghan
   Election Observer Shaheed Ali Naqi
 tags:
+- Solidarity
 - Global
 - ANFREL
 

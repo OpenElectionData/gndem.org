@@ -1,6 +1,6 @@
 ---
 title: GNDEM Condemns Killing of Mohammad Yousuf Rasheed
-date: 2020-12-28 17:00:00 +0000
+date: 2020-12-29 14:00:00 +0000
 image: ''
 excerpt: 'GNDEM condemns the murder of Mohammad Yousuf Rasheed, the Executive Director
   of the Free and Fair Election Forum of Afghanistan (FEFA), a GNDEM member organization.

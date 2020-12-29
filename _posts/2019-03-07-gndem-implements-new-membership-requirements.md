@@ -1,11 +1,12 @@
 ---
 title: GNDEM Implements New Membership Requirements
-date: 2019-03-06 05:00:00 +0000
+date: 2019-03-06T05:00:00.000+00:00
 image: ''
 excerpt: During the Sixth Implementation Meeting of the Declaration of Global Principles,
   the Coordinating Committee adopted the first set of GNDEM Constitutional Protocols,
   implementing new membership categories and criteria.
 tags:
+- GNDEM events
 - Misión de Observación Electoral
 - Global
 

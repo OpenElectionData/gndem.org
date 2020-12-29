@@ -1,7 +1,7 @@
 ---
 title: EMDS Finds Azerbaijan Elections in Violation of National Legislation and International
   Standards
-date: 2020-03-20 21:00:00 +0000
+date: 2020-03-20T21:00:00.000+00:00
 image: https://res.cloudinary.com/gndem/image/upload/v1584979360/gndem/EMDS_discrepancies_in_voter_turnout_2_isv50m.jpg
 excerpt: On February 9th, Azerbaijan held snap parliamentary elections following a
   vote to dissolve parliament in December 2019. President Ilham Aliyev’s New Azerbaijan
@@ -9,6 +9,7 @@ excerpt: On February 9th, Azerbaijan held snap parliamentary elections following
   Democracy Studies Center (EMDS) concluded violated Azerbaijani law as well as international
   standards for free and fair elections.
 tags:
+- Election day observation
 - Eurasia
 - Azerbaijan
 - EMDS

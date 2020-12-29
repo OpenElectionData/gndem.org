@@ -1,12 +1,13 @@
 ---
 title: Statement on the Fatal Shooting of Mozambique Local Election Observation Mission
   Head
-date: 2019-10-11 19:10:00 +0000
+date: 2019-10-11T19:10:00.000+00:00
 image: ''
 excerpt: Statement by the African Elections Observers Network (AfEONet), compromised
   of citizen observer groups in E-HORN, WAEON, and ESN-SA, on the fatal shooting of
   local election observation mission head in Mozambique
 tags:
+- Solidarity
 - E-HORN
 - WAEON
 

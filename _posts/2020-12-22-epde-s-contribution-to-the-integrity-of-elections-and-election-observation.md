@@ -46,7 +46,7 @@ To bring this subject even more into the public and decision makers’ eye, EPDE
 
 ![(EPDE YouTube)](https://res.cloudinary.com/gndem/image/upload/v1608661477/gndem/Screenshot_fake_observer_media_gscwtc.jpg "What is politically biased (or fake) election observation? ")
 
-The database was based on [reports of Anton Shekhovtsov](https://www.epde.org/en/documents/category/observe-the-observer-16.html) who has researched politically motivated election observation worldwide, yet with a particular focus on how this has been used as a Russian means to meddle in international elections. Shekhovtsov shows how politically biased observers legitimize fraudulent elections both in Russia itself and in other states of the region, where autocratic regimes try to legitimize illegitimate elections.
+The database was based on [reports of Anton Shekhovtsov](https://www.epde.org/en/documents/category/biased-observation.html) who has researched politically motivated election observation worldwide, yet with a particular focus on how this has been used as a Russian means to meddle in international elections. Shekhovtsov shows how politically biased observers legitimize fraudulent elections both in Russia itself and in other states of the region, where autocratic regimes try to legitimize illegitimate elections.
 
 #### EPDE’s Impact on the Democratization of Election Processes
 

@@ -11,4 +11,4 @@ tags:
 - Solidarity
 
 ---
-COPY IN FINAL STATEMENT
+COPY IN FINAL STATEMENT-- update the title and excerpt

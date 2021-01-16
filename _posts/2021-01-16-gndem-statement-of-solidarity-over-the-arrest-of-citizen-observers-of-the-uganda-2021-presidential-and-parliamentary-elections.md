@@ -34,6 +34,8 @@ Le GNDEM rejoint l’appel de [Africa Elections Watch](https://africaelectionswa
 
 Le GNDEM est solidaire avec les observateurs électoraux non partisane d’Ouganda en ce temps difficile. Le GNDEM appel au gouvernement d’Ouganda d’assurer que l'environnement électoral des dernières élections prévues soit pacifique et que les observateurs citoyens ne soient plus inhibés d'exécuter leur mandat da la promotion de la transparence et la responsabilité aux élections.
 
+<hr>
+
 (Español)
 
 La Red Global de Monitores Electorales Nacionales (GNDEM, por sus siglas en inglés), una red de 251 grupos de observadores ciudadanos en 89 países, condena el arresto y la detención de 27 observadores ciudadanos el 14 de enero de 2021. Los arrestos realizados en el centro de datos e información en el Hotel Africana en Kampala incluye a personas de organizaciones de la sociedad civil pertenecientes a GNDEM como ajenas a GNDEM que observaban las elecciones presidenciales y parlamentarias de Uganda. Los arrestos de los observadores inhiben el papel crucial de los monitores ciudadanos no partidistas en la observación electoral y disuade a los ciudadanos de participar plenamente en los procesos electorales y políticos.

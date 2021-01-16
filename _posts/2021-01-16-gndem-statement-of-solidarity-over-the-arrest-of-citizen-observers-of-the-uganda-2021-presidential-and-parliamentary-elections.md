@@ -3,7 +3,16 @@ title: GNDEM Statement of Solidarity over the Arrest of Citizen Observers of the
   2021 Presidential and Parliamentary Elections
 date: 2021-01-16 17:00:00 +0000
 image: ''
-excerpt: ''
+excerpt: 'GNDEM joins the call from Africa Elections Watch for the immediate release
+  of detained individuals, noninterference in election processes by Ugandan security
+  forces, and respect for the rights of independent and non-partisan election observers
+  to monitor the electoral process as defined in the Declaration of Global Principles
+  for Nonpartisan Election Observation and Monitoring by Citizen Organizations (DoGP).
+  GNDEM reiterates that nonpartisan citizen election observation requires respect
+  for the freedoms of association and to seek, receive, and impart impartial information
+  in order to promote credible, peaceful elections and advance electoral integrity.
+  GNDEM stands in solidarity with Ugandan non-partisan citizen election observers
+  in these challenging times. '
 tags:
 - Election day observation
 - Global

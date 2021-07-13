@@ -1,6 +1,6 @@
 ---
 title: Introducing GNDEM Talks
-date: 2021-07-13 04:00:00 +0000
+date: 2021-07-13 20:00:00 +0000
 image: https://res.cloudinary.com/gndem/image/upload/v1626206060/gndem/60c739ee19910258417164_evidxc.jpg
 excerpt: Starting this month, the Civil Network OPORA from Ukraine is releasing a
   monthly online show, GNDEM Talk, to discuss challenges to elections and democracy

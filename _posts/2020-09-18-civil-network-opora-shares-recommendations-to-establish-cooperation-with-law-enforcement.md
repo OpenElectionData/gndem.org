@@ -1,7 +1,7 @@
 ---
 title: 'Civil Network OPORA Shares Recommendations to Establish Cooperation with Law
   Enforcement '
-date: 2020-09-18 01:00:00 +0000
+date: 2020-09-18T01:00:00.000+00:00
 image: https://res.cloudinary.com/gndem/image/upload/v1600373438/gndem/oporafeaturephoto_qjho8j.jpg
 excerpt: In Ukraine, the Civil Network OPORA has cooperated with law enforcement in
   innovative ways to increase transparency, reduce tensions and build trust between

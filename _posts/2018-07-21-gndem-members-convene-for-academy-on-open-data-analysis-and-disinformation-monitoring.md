@@ -1,17 +1,17 @@
 ---
 title: GNDEM Members Convene for Academy on Open Data Analysis and Disinformation
   Monitoring
-date: 2018-07-21 17:45:46 -0400
+date: 2018-05-14T00:00:00.000-04:00
 image: https://res.cloudinary.com/gndem/image/upload/v1541355317/gndem/gndem-members-convene-for-academy-1.jpg
 tags:
 - Central & Eastern Europe
 - Eurasia
-date: 2018-05-14 00:00:00 -0400
+excerpt: ''
 
 ---
 From April 24-27, 2018, 15 citizen election observer groups from 11 countries, including 10 GNDEM members, convened in Belgrade, Serbia for an academy on information and electoral integrity through open election data analysis and monitoring the spread, prevalence and scope of disinformation during elections. The four-day academy included discussions on methodologies for monitoring disinformation in traditional and social media, methods for using open election data as part of election observation efforts, and various tools and skills for opening and analyzing election data to enhance fact-based findings. GNDEM members identified these issues as highly important to electoral integrity following a similar academy in 2017, and the peer-to-peer learning opportunity allowed members to share recent innovative approaches and learn from one another.
 
-GNDEM members who participated in the academy are: [**Society for Democratic Culture**](http://www.zgjedhje.al/faqe.php?id=1&l2=115&l3=46)(Albania), [**KRIIK Albania Association**](https://www.facebook.com/kriik.al/), [**Coalition for Free and Fair Elections**](http://www.kzln.org.al/) (Albania), [**Citizens Association MOST**](http://most.org.mk/) (Macedonia), the [**Monitoring Center CEMI**](http://cemi.org.me/en/) (Montenegro), [**Pod Lupom**](http://podlupom.org/v2/en)(Bosnia and Herzegovina), the [**Center for Research, Transparency and Accountability**](http://crta.rs/)(Serbia), [**Center for Free Elections and Democracy**](http://www.cesid.rs/) (Serbia), the [**International Society For Fair Elections and Democracy**](http://isfed.ge/) (Georgia), [**Civil Network OPORA**](https://www.oporaua.org/en) (Ukraine), [**Promo-LEX Association**](https://promolex.md/?lang=ro) (Moldova), and [**Coalition for Democracy and Civil Society**](http://coalition.kg/en/) (Kyrgyzstan).
+GNDEM members who participated in the academy are: [**Society for Democratic Culture**](http://www.zgjedhje.al/faqe.php?id=1&l2=115&l3=46)(Albania), [**KRIIK Albania Association**](https://www.facebook.com/kriik.al/), [**Coalition for Free and Fair Elections**](http://www.kzln.org.al/) (Albania), [**Citizens Association MOST**](http://most.org.mk/) (Macedonia), the [**Monitoring Center CEMI**](http://cemi.org.me/en/) (Montenegro), [**Pod Lupom**](http://podlupom.org/v2/en)(Bosnia and Herzegovina), the [**Center for Research, Transparency and Accountability**](http://crta.rs/)(Serbia), [**Center for Free Elections and Democracy**](http://www.cesid.rs/) (Serbia), the [**International Society For Fair Elections and Democracy**](http://isfed.ge/) (Georgia), [**Promo-LEX Association**](https://promolex.md/?lang=ro) (Moldova), and [**Coalition for Democracy and Civil Society**](http://coalition.kg/en/) (Kyrgyzstan).
 
 The academy began by taking stock of disinformation in elections, including what tactics are being used, how it manifests in traditional and online media, and how it impacts the integrity of electoral processes. Participants highlighted challenges they have encountered in monitoring, mitigating or combatting disinformation. The Center for Research, Transparency and Accountability (CRTA) in Serbia highlighted their efforts at media monitoring and fact-checking around the country’s most recent elections, and how they formulated messages aimed at countering false or misleading information. The International Society For Fair Elections and Democracy (ISFED) in Georgia discussed how they were structuring and designing their methodology to monitor social media ahead of the presidential election this October, using new tools developed to monitor and analyze the large amount of data associated with social media postings.
 

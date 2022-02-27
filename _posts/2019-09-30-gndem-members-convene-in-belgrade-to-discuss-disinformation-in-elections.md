@@ -1,7 +1,7 @@
 ---
 title: GNDEM Members Convene in Belgrade to Discuss Disinformation in Elections
 date: 2019-09-30T21:00:00.000+00:00
-image: https://res.cloudinary.com/gndem/image/upload/v1569871936/gndem/IMG-1570_mmmdam.jpg
+image: https://res.cloudinary.com/gndem/image/upload/v1569874064/gndem/20190904-152314_o52evr.jpg
 excerpt: Representatives from several GNDEM member organizations attended an Academy
   on the impact of social media and elections in Belgrade, Serbia from 2-5 September
   2019. This intensive academy, hosted by the National Democratic Institute (NDI),
@@ -16,9 +16,7 @@ In recent years digital disinformation has become a significant threat to the in
 
 Representatives from several GNDEM member organizations attended an Academy on the impact of social media and elections in Belgrade, Serbia from 2-5 September 2019. This intensive academy, hosted by the National Democratic Institute (NDI), addressed the tools and strategies election observers can utilize for detecting, exposing, and countering malign disinformation in election environments.
 
-The Academy’s participants came from citizen election observation groups around the world including GNDEM members [People’s Alliance for Credible Elections](https://www.pacemyanmar.org/) (PACE, Myanmar), [People’s Action for Free and Fair Elections](http://www.paffrel.com/) (PAFFREL, Sri Lanka), [Participación Ciudadana](https://pciudadana.org/) (PC, Dominican Republic), [Corporación Participación Ciudadana Ecuador ](https://www.participacionciudadana.org/)(PC, Ecuador), [Center for Democratic Transition](https://www.cdtmn.org/) (CDT, Montenegro), [Center for Monitoring and Researching](http://cemi.org.me/en/) (CEMI, Montenegro), [Civil Network OPORA](https://www.oporaua.org/en) (Ukraine), [Coalition for Free and Fair Elections- Pod Lupom ](http://podlupom.org/v2/)(Bosnia), [Citizen Association MOST](http://most.org.mk/?lang=en) (North Macedonia), [International Society for Free Elections and Democracy](http://www.isfed.ge/) (ISFED, Georgia), and [Center for Research Transparency and Accountability](https://crta.rs/en/) (CRTA, Serbia).
-
-![NDI](https://res.cloudinary.com/gndem/image/upload/v1569874064/gndem/20190904-152314_o52evr.jpg "Participants discuss their exercise.")
+The Academy’s participants came from citizen election observation groups around the world including GNDEM members [People’s Alliance for Credible Elections](https://www.pacemyanmar.org/) (PACE, Myanmar), [People’s Action for Free and Fair Elections](http://www.paffrel.com/) (PAFFREL, Sri Lanka), [Participación Ciudadana](https://pciudadana.org/) (PC, Dominican Republic), [Corporación Participación Ciudadana Ecuador ](https://www.participacionciudadana.org/)(PC, Ecuador), [Center for Democratic Transition](https://www.cdtmn.org/) (CDT, Montenegro), [Center for Monitoring and Researching](http://cemi.org.me/en/) (CEMI, Montenegro), [Civil Network OPORA](https://www.oporaua.org/en) (Ukraine), [Coalition for Free and Fair Elections- Pod Lupom ](http://podlupom.org/v2/)(Bosnia), [Citizen Association MOST](http://most.org.mk/?lang=en) (North Macedonia), [International Society for Free Elections and Democracy](http://www.isfed.ge/) (ISFED, Georgia), and [Center for Research Transparency and Accountability](https://crta.rs/en/) (CRTA, Serbia).![NDI]
 
 Over the course of the four days, participants learned the steps and resources available for structuring and employing a social media monitoring effort. Participants began by assessing the information environments in their countries, thinking through where voters receive their information, popularity of media platforms, what types and themes of disinformation are most prevalent, and any existing efforts to combat disinformation.
 

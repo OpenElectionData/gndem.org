@@ -2,7 +2,7 @@
 title: GNDEM Members Convene for Academy on Open Data Analysis and Disinformation
   Monitoring
 date: 2018-05-14T00:00:00.000-04:00
-image: https://res.cloudinary.com/gndem/image/upload/v1541355317/gndem/gndem-members-convene-for-academy-1.jpg
+image: ''
 tags:
 - Central & Eastern Europe
 - Eurasia

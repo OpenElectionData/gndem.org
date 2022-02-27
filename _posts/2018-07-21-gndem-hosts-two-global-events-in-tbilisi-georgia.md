@@ -1,8 +1,9 @@
 ---
 title: GNDEM Hosts Two Global Events in Tbilisi, Georgia
-date: 2017-08-04 00:00:00 -0400
-image: https://res.cloudinary.com/gndem/image/upload/v1541355323/gndem/gndem-hosts-two-global-events-in-tbilisi-georgia.png
+date: 2017-08-04T00:00:00.000-04:00
+image: ''
 tags: []
+excerpt: ''
 
 ---
 From June 27-28, 2017, the GNDEM Coordinating Committee, representing all nine regional networks, convened in Tbilisi, Georgia for the Fifth Implementation Meeting of the [**Declaration of Global Principles for Nonpartisan Citizen Election Observation**](http://www.gndem.org/declaration-of-global-principles) (DoGP). Building off of previous Implementation Meetings held in Bali, Johannesburg, Mexico City and Beirut, the Coordinating Committee was able to discuss recent challenges, share experiences and best practices from their election observation work and develop action items for the coming year. Topics of discussion this year included solidarity and credibility among citizen observers; membership criteria for members to ensure activity and credibility; advocacy for electoral transparency, specifically focused on open election data; and inter-election accountability initiatives.

@@ -11,11 +11,6 @@ layout: default
     <div class="sidebar-contents">
       <h2 class="subheading">{{ site.data.strings.table_of_contents }}</h2>
       <div id="table-of-contents"></div>
-      {% assign pdf_url = site.active_lang | prepend: "/assets/pdfs/DoGP_" |
-      append: ".pdf" %}
-      <a href="{{ pdf_url | relative_url }}" class="btn btn-download"
-        >{{ site.data.strings.download_declaration }}</a
-      >
     </div>
   </aside>
 

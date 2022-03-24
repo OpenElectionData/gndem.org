@@ -6,6 +6,6 @@ acronym: E-HORN
 is_member: true
 no_gndem_member_countries: 
 regional_network: 
-website: https://www.facebook.com/EastandHornofAfricaElectionObservationNetwork/
+website: http://ehorn.org/
 
 ---

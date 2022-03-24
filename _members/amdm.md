@@ -3,8 +3,9 @@ region: MENA
 country: Morocco
 name: Association Marocaine des éficients Moteurs (AMDM)
 acronym: AMDM
-is_member: yes
+is_member: true
 no_gndem_member_countries: 
 regional_network: 
-website: 
+website: https://amdm.asso-web.com
+
 ---

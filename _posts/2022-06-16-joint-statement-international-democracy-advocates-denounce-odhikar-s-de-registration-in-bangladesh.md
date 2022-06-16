@@ -25,7 +25,9 @@ Reporting on human rights violations does not tarnish the country’s image; it 
 Signed by,
 
 Asian Network for Free Elections (ANFREL)
-Asia Democracy Network (ADN)
+
+Asia Democracy Network (ADN) 
+
 Global Network of Domestic Election Monitors (GNDEM)
 
 Read the full statement here: [Joint Statement: International Democracy Advocates Denounce Odhikar’s De-registration in Bangladesh](https://anfrel.org/wp-content/uploads/2022/06/Joint-Statement_-International-Democracy-Advocates-Denounce-Odhikars-De-registration-in-Bangladesh.pdf)

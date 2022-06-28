@@ -1,5 +1,5 @@
 ---
-title: "“Open Election Data & Disinformation Academy:  From the Basics to Advocacy”
+title: "“Open Election Data & Disinformation Academy: From the Basics to Advocacy”
   Call for Participation"
 date: 2022-06-28 12:00:00 +0000
 image: ''

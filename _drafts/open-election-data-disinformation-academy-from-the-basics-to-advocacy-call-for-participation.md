@@ -21,12 +21,12 @@ The Civil Network OPORA, with support from the National Democratic Institute, is
 
 The program is tailored for citizen election observation leaders across Europe focused on open electoral data and social media monitoring and the ways they help to reveal manipulation and prevent electoral fraud. The OPORA team and external international experts will guide participants through a series of **training sessions focusing on**:
 
-* why open data matters in elections, 
-* how to analyze official voting results, 
-* how to use election data to propose amendments to improve the country’s legislation (e.g. time of vote counting), 
-* how to make a real dataset from Word/PDF documents and later analyze those to understand election process better, 
-* what can be done with geographical data except for election violation maps, 
-* how to download and analyze data from major social media platforms, 
+* why open data matters in elections,
+* how to analyze official voting results,
+* how to use election data to propose amendments to improve the country’s legislation (e.g. time of vote counting),
+* how to make a real dataset from Word/PDF documents and later analyze those to understand election process better,
+* what can be done with geographical data except for election violation maps,
+* how to download and analyze data from major social media platforms,
 * how political ads in social media can lead you to the big disinformation networks (and what to do with those).
 
 We are not big fans of long presentations and lectures. Therefore, the participants’ skills will be built up on practical exercises and case studies from different countries with a lot of experience-sharing and hands-on sessions to follow. Participants will also be shown various tools that can be used to collect data, and track and analyze information manipulations online.

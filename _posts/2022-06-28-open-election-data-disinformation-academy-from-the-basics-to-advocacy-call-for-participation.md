@@ -17,7 +17,7 @@ tags:
 - Open election data
 
 ---
-_Please note that this is not a GNDEM-sponsored event. GNDEM would like to share this opportunity from Civil Network OPORA and NDI its members._
+_Please note that this is not a GNDEM-sponsored event. GNDEM would like to share this opportunity from Civil Network OPORA and NDI with its members._
 
 The Civil Network OPORA, with support from the National Democratic Institute, is pleased to announce a call for participation in a four-day training program within the **‘Open Election Data & Disinformation’ Academy**! The Academy will take place in Warsaw from August 1-4.
 

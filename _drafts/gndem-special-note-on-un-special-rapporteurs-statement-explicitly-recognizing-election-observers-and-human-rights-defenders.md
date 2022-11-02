@@ -3,7 +3,12 @@ title: GNDEM Special Note on UN Special Rapporteurs Statement Explicitly Recogni
   Election Observers and Human Rights Defenders
 date: 2022-11-01 20:01:00 +0000
 image: ''
-excerpt: ''
+excerpt: The United Nations Special Rapporteurs on the situation of human rights defenders
+  and on the right to freedom and peaceful assembly and of associations issued a statement
+  on 27 October 2022 explicitly recognizing citizen and international election observers
+  as human rights defenders. This statement marks the first time election observers
+  have been explicitly defined as human rights defenders, and comes in light of restricting
+  space for and rights of election observers.
 tags:
 - Election day observation
 - Global

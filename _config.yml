@@ -15,7 +15,7 @@ cloudinary_url: https://res.cloudinary.com/gndem/image/upload/
 
 show_excerpts: true
 date_format: "%B %-d, %Y"
-show_tags: false
+show_tags: true
 
 collections:
   posts:

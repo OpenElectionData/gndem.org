@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ locale }}" dir="{{ dir }}">
+<head prefix="og: http://ogp.me/ns">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- TODO: SEO -->
+  <title>{{ title }}</title>
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:700|Open+Sans:400,700" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ '../_assets/css/styles.css' }}" />
+
+  {# FEED & Google Analytics #}
+</head>
+<body>
+
+  <header>
+    <span>{{ site.title }}</span>
+    <nav aria-label="{{ 'website' | i18n }}">
+      <a href="/{{ locale }}/">{{ 'homepage' | i18n }}</a>
+      <a href="/{{ locale }}/posts/">{{ 'posts' | i18n }}</a>
+    </nav>
+  </header>
+
+  <main class="page-content">
+    <div class="wrapper">
+      {{ content | safe }}
+    </div>
+  </main>
+
+  <footer>
+    {% include 'components/language-selector.njk' %}
+  </footer>
+
+</body>
+</html>

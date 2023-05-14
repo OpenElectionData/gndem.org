@@ -1,0 +1,36 @@
+---
+layout: base
+---
+
+<article class="page row declaration">
+  <header class="post-header col-xs-12">
+    <h1 class="post-title">{{ title }}</h1>
+  </header>
+
+  <aside class="col-xs-12 col-md-4 declaration-sidebar">
+    <div class="sidebar-contents">
+      <h2 class="subheading">{{ 'table_of_contents' | i18n }}</h2>
+      <div id="table-of-contents"></div>
+    </div>
+  </aside>
+
+  <section class="post-content col-xs-12 col-md-8">
+    {{ content | safe }}
+
+    <section class="declaration-signatories">
+      <h3>{{ 'endorsing_networks' | i18n }}</h3>
+      <ul>
+        {% for member in principles.networks %}
+        <li>{{ member }}</li>
+        {% endfor %}
+      </ul>
+
+      <h3>{{ 'supporting_organizations' | i18n }}</h3>
+      <ul>
+        {% for member in principles.organizations %}
+        <li>{{ member }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+  </section>
+</article>

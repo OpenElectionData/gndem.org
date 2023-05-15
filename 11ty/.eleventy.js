@@ -1,7 +1,9 @@
 // 11ty plugins
+const pluginRss = require('@11ty/eleventy-plugin-rss');
+const { EleventyHtmlBasePlugin } = require('@11ty/eleventy');
+const { EleventyI18nPlugin } = require('@11ty/eleventy');
 const i18n = require('eleventy-plugin-i18n');
 const eleventySass = require('@11tyrocks/eleventy-plugin-sass-lightningcss');
-const { EleventyHtmlBasePlugin } = require('@11ty/eleventy');
 
 // Helper packages
 const slugify = require('slugify');
@@ -12,10 +14,11 @@ const filters = require('./src/_utils/filters.js');
 const translations = require('./src/_data/i18n');
 
 module.exports = function (eleventyConfig) {
-  //
-  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+  // RSS
+  eleventyConfig.addPlugin(pluginRss);
 
-  console.log(eleventyConfig.pathPrefix);
+  // Base Url
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 
   // Sass
   eleventyConfig.addPlugin(eleventySass);
@@ -39,6 +42,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLibrary('md', markdownLibrary);
 
   // Internationalization
+  eleventyConfig.addPlugin(EleventyI18nPlugin, {
+    // any valid BCP 47-compatible language tag is supported
+    defaultLanguage: 'en',
+    errorMode: 'never'
+  });
+
   eleventyConfig.addPlugin(i18n, {
     translations,
     fallbackLocales: {
@@ -68,6 +77,17 @@ module.exports = function (eleventyConfig) {
   //   }
   // });
 
+  // Collections
+  // Get only content that matches a tag
+  eleventyConfig.addCollection('homeFeed', function (collectionApi) {
+    return collectionApi
+      .getFilteredByTag('stories')
+      .sort(function (a, b) {
+        return b.date - a.date;
+      })
+      .slice(0, 3);
+  });
+
   // Filters
   Object.keys(filters).forEach((filterName) => {
     eleventyConfig.addFilter(filterName, filters[filterName]);
@@ -79,6 +99,11 @@ module.exports = function (eleventyConfig) {
   // Layouts
   eleventyConfig.addLayoutAlias('base', 'base.njk');
   eleventyConfig.addLayoutAlias('post', 'post.njk');
+
+  // Passthrough
+  eleventyConfig.addPassthroughCopy('src/_assets/font');
+  eleventyConfig.addPassthroughCopy('src/_assets/img');
+  eleventyConfig.addPassthroughCopy('src/_assets/js');
 
   // Configuration
   return {

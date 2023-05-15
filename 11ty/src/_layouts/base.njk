@@ -5,32 +5,33 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- TODO: SEO -->
-  <title>{{ title }}</title>
-  <link href="https://fonts.googleapis.com/css?family=Merriweather:700|Open+Sans:400,700" rel="stylesheet" />
-  <link rel="stylesheet" href="{{ '../_assets/css/styles.css' }}" />
+  <title>{{ title }} | {{ site.title }}</title>
+  <meta property="og:title" content="Global Network of Domestic Election Monitors" />
+  <meta property="og:locale" content="{{ locale }}" />
+  <meta name="description" content="{{ excerpt or site.description }}" />
+  <meta property="og:description" content="{{ excerpt or site.description }}" />
+  <link rel="canonical" href="{{ site.url }}" />
+  <meta property="og:url" content="{{ site.url }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+    <!-- TODO: SEO image -->
 
-  {# FEED & Google Analytics #}
+
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:700|Open+Sans:400,700" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ site.url }}{{ '/_assets/css/styles.css' }}" />
+
+  <link type="application/atom+xml" rel="alternate" href="{{ site.url }}/feed.xml" title="{{ site.title }}">
+  {% include 'components/google-analytics.njk' %}
 </head>
 <body>
 
-  <header>
-    <span>{{ site.title }}</span>
-    <nav aria-label="{{ 'website' | i18n }}">
-      <a href="/{{ locale }}/">{{ 'homepage' | i18n }}</a>
-      <a href="/{{ locale }}/posts/">{{ 'posts' | i18n }}</a>
-    </nav>
-  </header>
+  {% include 'header.njk' %}
 
   <main class="page-content">
     <div class="wrapper">
       {{ content | safe }}
     </div>
   </main>
-
-  <footer>
-    {% include 'components/language-selector.njk' %}
-  </footer>
+  {% include 'footer.njk' %}
 
 </body>
 </html>

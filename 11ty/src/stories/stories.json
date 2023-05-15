@@ -1,0 +1,7 @@
+{
+  "tags": "stories",
+  "layout": "post.njk",
+  "permalink": "/{{ page.filePathStem }}/",
+  "lang": "en",
+  "locale": "en"
+}

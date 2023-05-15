@@ -1,0 +1,31 @@
+---
+layout: base
+---
+
+<div class="row">
+  <div class="col-xs-12 home-mission">
+    <p>{{ 'home_desc' | i18n }}</p>
+  </div>
+  <div class="col-xs-12 col-md-8 home-content-container">
+    <div class="home">
+      {% set postslist = collections.homeFeed %}
+      {% include "components/postslist.njk" %}
+      <a href="/stories/" class="read-all"
+        >{{ 'read_all' | i18n }}</a
+      >
+    </div>
+  </div>
+  <aside class="col-xs-12 col-md-4 sidebar">
+    <div class="sidebar-declaration">
+      <h2 class="subheading"><i class="icon-book-open"></i>Declaration of Global Principles</h2>
+      <p>The Declaration of Global Principles for Nonpartisan Election Observation and Monitoring by Citizen Organizations provides a set of standards for self-awareness and accountability among nonpartisan election monitoring organizations.</p>
+      <a href="{{ "/declaration-of-global-principles/" | locale_url }}">Read the Declaration</a>
+    </div>
+    <div class="sidebar-members">
+      <h2 class="subheading"><i class="icon-group"></i>{{ 'membership_block_title' | i18n }}</h2>
+      <p>{{ 'membership_block_desc' | i18n }}</p>
+      <a href="{{ "/members/" | locale_url }}">{{ 'view_members' | i18n }}</a><br />
+      <a href="{{ "/en/join/" }}">{{ 'register_members' | i18n }}</a>
+    </div>
+  </aside>
+</div>

@@ -1,0 +1,38 @@
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+    
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+<script>
+$(document).ready( function () {
+    $('#members_table').DataTable({
+        "pageLength": 25,
+        "columns": [
+            { "width": "15%" },
+            { "width": "60%" },
+            { "width": "5%" },
+            { "width": "20%"}
+        ],
+        initComplete: function () {
+        this.api().columns([0]).every( function () {
+            var column = this;
+            var select = $('<select id="country-select"><option value="">Filter by Country</option></select>')
+                .appendTo( $(column.footer()).empty() )
+                .on( 'change', function () {
+                    var val = $.fn.dataTable.util.escapeRegex(
+                        $(this).val()
+                    );
+
+                    column
+                        .search( val ? '^'+val+'$' : '', true, false )
+                        .draw();
+                } );
+
+            column.data().unique().sort().each( function ( d, j ) {
+                select.append( '<option value="'+d+'">'+d+'</option>' )
+            } );
+        } );
+        }
+    });
+} );
+</script>

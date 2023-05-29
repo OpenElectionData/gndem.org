@@ -11,8 +11,8 @@ layout: base
 
   <h3>{{ 'regional_networks' | i18n }}</h3>
   <ul>
-    {% for member in members.regional_networks %}
-    <li>{{ member.name }}</li>
+    {% for member in organizations.members_regional_networks %}
+    <li>{{ member }}</li>
     {% endfor %}
   </ul>
 

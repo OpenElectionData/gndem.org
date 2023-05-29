@@ -20,14 +20,14 @@ layout: base
     <section class="declaration-signatories">
       <h3>{{ 'endorsing_networks' | i18n }}</h3>
       <ul>
-        {% for member in principles.networks %}
+        {% for member in organizations.dogp_networks %}
         <li>{{ member }}</li>
         {% endfor %}
       </ul>
 
       <h3>{{ 'supporting_organizations' | i18n }}</h3>
       <ul>
-        {% for member in principles.organizations %}
+        {% for member in organizations.dogp_organizations %}
         <li>{{ member }}</li>
         {% endfor %}
       </ul>

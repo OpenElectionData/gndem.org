@@ -1,0 +1,40 @@
+{
+  "dogp_networks": [
+    "ANFREL",
+    "E-HORN",
+    "ENAR",
+    "ENEMO",
+    "EPDE",
+    "GNDEM",
+    "SADC ESN",
+    "WAEON"
+  ],
+  "dogp_organizations": [
+    "Carter Center",
+    "CAPEL",
+    "Commonwealth Secretariat",
+    "DRI",
+    "EISA",
+    "European Parliament",
+    "High Representative of the European Union for Foreign Affairs and Security Policy and Vice-President of the Commission",
+    "IFES",
+    "International IDEA",
+    "NDI",
+    "OAS",
+    "OSCE/ODIHR",
+    "PACE",
+    "UN Secretariat",
+    "Venice Commission"
+  ],
+  "members_regional_networks": [
+    "Asian Network for Free Elections (ANFREL)",
+    "Southern African Development Community Election Support Network (SADC ESN)",
+    "Red de Observación e Integridad Electoral - Acuerdo de Lima (RedOIE)",
+    "European Network of Election Monitoring Organizations (ENEMO)",
+    "West Africa Election Observers Network (WAEON)",
+    "European Platform for Democratic Elections",
+    "East and Horn of Africa Election Observers Network",
+    "Arab Network for Democratic Elections (ANDE)",
+    "Election Network in the Arab Region (ENAR)"
+  ]
+}

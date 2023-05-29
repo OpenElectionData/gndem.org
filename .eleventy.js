@@ -138,6 +138,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/_assets/font');
   eleventyConfig.addPassthroughCopy('src/_assets/img');
   eleventyConfig.addPassthroughCopy('src/_assets/js');
+  eleventyConfig.addPassthroughCopy('uploads');
+  eleventyConfig.addPassthroughCopy('src/_assets/font');
 
   // Configuration
   return {

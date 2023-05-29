@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npx tinacms dev -c \"npx @11ty/eleventy --serve\"",
     "dev": "npm run start",
-    "build": "npm run tinacms build && npx @11ty/eleventy"
+    "build": "tinacms build && npx @11ty/eleventy"
   },
   "keywords": [],
   "author": "Jacque Schrag",

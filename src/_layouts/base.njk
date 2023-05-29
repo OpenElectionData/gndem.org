@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ locale }}" dir="{{ dir }}">
+<head prefix="og: http://ogp.me/ns">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ title }} | {{ site.title }}</title>
+  <meta property="og:title" content="Global Network of Domestic Election Monitors" />
+  <meta property="og:locale" content="{{ locale }}" />
+  <meta name="description" content="{{ excerpt or site.description }}" />
+  <meta property="og:description" content="{{ excerpt or site.description }}" />
+  <link rel="canonical" href="{{ site.url }}" />
+  <meta property="og:url" content="{{ site.url }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+    <!-- TODO: SEO image -->
+
+
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:700|Open+Sans:400,700" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ site.url }}{{ '/_assets/css/styles.css' }}" />
+
+  <link type="application/atom+xml" rel="alternate" href="{{ site.url }}/feed.xml" title="{{ site.title }}">
+  {% include 'components/google-analytics.njk' %}
+</head>
+<body>
+
+  {% include 'header.njk' %}
+
+  <main class="page-content">
+    <div class="wrapper">
+      {{ content | safe }}
+    </div>
+  </main>
+  {% include 'footer.njk' %}
+
+</body>
+</html>

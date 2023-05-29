@@ -1,5 +1,0 @@
-<ul class="social-media-list">
-	{%- if site.email -%}<li><a href="mailto:{{ site.email| cgi_escape | escape }}?subject=GNDEM Website"><i class="icon-mail"></i><span class="username">{{ site.email| escape }}</span></a></li>{%- endif -%}
-	{%- if site.facebook_username -%}<li><a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}" target="_blank"><i class="icon-facebook"></i><span class="username">{{ site.facebook_username| escape }}</span></a></li>{%- endif -%}
-	{%- if site.twitter_username -%}<li><a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}" target="_blank"><i class="icon-twitter"></i><span class="username">{{ site.twitter_username| escape }}</span></a></li>{%- endif -%}
-</ul>

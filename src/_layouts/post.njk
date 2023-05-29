@@ -1,0 +1,60 @@
+---
+layout: base
+---
+
+<article
+  class="post h-entry"
+  itemscope
+  itemtype="http://schema.org/BlogPosting"
+>
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">
+      {{ title }}
+    </h1>
+    <p class="post-meta">
+      <time
+        class="dt-published"
+        datetime="{{ date | dateToRfc3339 }}"
+        itemprop="datePublished"
+      >
+        {{ date | readableDate }}
+      </time>
+      {%- if author -%} •
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person"
+        ><span class="p-author h-card" itemprop="name"
+          >{{ author }}</span
+        ></span
+      >
+      {%- endif -%}
+    </p>
+  </header>
+
+  <section class="post-content e-content" itemprop="articleBody">
+    {%- if image != '' %}
+    <a href="{{ url }}"
+      ><img
+        src="{{ image }}"
+        class="post-feature-img"
+        alt="{{ title }}"
+        title="{{ title }}"
+    /></a>
+    {%- endif %}
+    {{ content | safe }}
+  </section>
+
+  <footer class="post-footer">
+    <div class="tag-list">
+      <span class="tag-list__title">{{ 'tags' | i18n }}</span>
+      <ul>
+        {%- for tag in tags | filterTagList %} 
+            {%- set tagUrl %}/tag/{{ tag | slugify }}/{%- endset %}
+            <li class="tag-list__tag">
+            <a href="{{ tagUrl }}">{{ tag }}</a>
+            </li>
+        {%- endfor %}
+      </ul>
+    </div>
+  </footer>
+
+  <a class="u-url clearfix" href="{{ url }}" hidden></a>
+</article>

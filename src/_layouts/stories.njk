@@ -1,0 +1,13 @@
+---
+layout: base
+---
+
+<article class="page">
+    <h1 class="page-heading">{{ title }}</h1>
+  <div class="post-content">
+    {{ content | safe }}
+  </div>
+
+  {% set postslist = collections.stories | reverse %}
+  {% include "components/postslist.njk" %}
+</article>

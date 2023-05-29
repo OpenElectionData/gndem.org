@@ -1,0 +1,22 @@
+<div class="notification-bar gdpr">
+  <div class="wrapper">
+    <div class="row">
+      <div class="notification-body col-xs-12 col-md-8">
+        <span class="notification-bar-header"
+          >{{ 'gdpr_heading' | i18n }}</span
+        >
+        <p class="notification-bar-desc">{{ 'gdpr_desc' | i18n }}</p>
+      </div>
+      <div class="notification-buttons col-xs-12 col-md-4">
+        <button class="btn btn-yellow btn-hide">
+          {{ 'gdpr_hide' | i18n }}
+        </button>
+        <a
+          class="btn btn-gray btn-more-info"
+          href="{{ site.url }}{{ "/privacy-policy/" }}"
+          >{{ 'gdpr_more_info' | i18n }}</a
+        >
+      </div>
+    </div>
+  </div>
+</div>

@@ -18,7 +18,7 @@ permalink: /tag/{{ tag | slugify }}/
 ---
 <h1>Tag: {{ tag }}</h1>
 
-{% set postslist = collections[ tag ] %}
+{% set postslist = collections[ tag ] | reverse %}
 {% include "components/postslist.njk" %}
 
 <p>See <a href="/tag/">all tags</a>.</p>

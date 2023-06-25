@@ -27,10 +27,7 @@ module.exports = function (eleventyConfig) {
   let markdownLibrary = markdownIt({
     html: true
   }).use(markdownItAnchor, {
-    permalink: markdownItAnchor.permalink.ariaHidden({
-      class: 'tdbc-anchor',
-      space: false
-    }),
+    permalink: markdownItAnchor.permalink.headerLink({ safariReaderFix: true }),
     level: [1, 2, 3],
     slugify: (str) =>
       slugify(str, {

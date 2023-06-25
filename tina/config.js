@@ -1,8 +1,10 @@
 import { defineConfig } from 'tinacms';
-import { membersFields } from './templates';
-import { pagesFields } from './templates';
-import { storiesFields } from './templates';
-import { stringsFields } from './templates';
+import {
+  membersFields,
+  pagesFields,
+  storiesFields,
+  translationFields
+} from './templates';
 
 const slugify = function (str) {
   if (str) {
@@ -43,6 +45,11 @@ export default defineConfig({
       publicFolder: 'dist'
     }
   },
+  // search: {
+  //   tina: {
+  //     indexerToken: process.env.TINA_SEARCH_TOKEN
+  //   }
+  // },
   schema: {
     collections: [
       {
@@ -66,6 +73,29 @@ export default defineConfig({
         fields: [...storiesFields()]
       },
       {
+        format: 'json',
+        label: 'Tags',
+        name: 'keywords',
+        path: 'src/_data',
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false
+          }
+        },
+        match: {
+          include: 'keywords'
+        },
+        fields: [
+          {
+            type: 'string',
+            name: 'keywords',
+            label: 'Tags',
+            list: true
+          }
+        ]
+      },
+      {
         format: 'md',
         label: 'Members',
         name: 'members',
@@ -78,54 +108,6 @@ export default defineConfig({
           }
         },
         fields: [...membersFields()]
-      },
-      {
-        format: 'yml',
-        label: 'Menus',
-        name: 'menus',
-        path: '_data',
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false
-          }
-        },
-        match: {
-          include: 'menus'
-        },
-        fields: [
-          {
-            name: 'dummy',
-            label: 'Dummy field',
-            type: 'string',
-            description:
-              'This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info'
-          }
-        ]
-      },
-      {
-        format: 'yml',
-        label: 'Tags',
-        name: 'tags',
-        path: '_data',
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false
-          }
-        },
-        match: {
-          include: 'tags'
-        },
-        fields: [
-          {
-            name: 'dummy',
-            label: 'Dummy field',
-            type: 'string',
-            description:
-              'This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info'
-          }
-        ]
       },
       {
         label: 'Members & DoGP Organizations',
@@ -164,34 +146,85 @@ export default defineConfig({
         ]
       },
       {
-        format: 'yaml',
-        label: 'English',
-        name: 'english',
-        path: '_data/en',
+        label: 'Menus',
+        name: 'navigation',
+        path: 'src/_data/',
+        match: {
+          include: 'navigation'
+        },
+        format: 'json',
         ui: {
+          // Don't allow editors to create new navigation items
           allowedActions: {
             create: false,
             delete: false
           }
         },
-        match: {
-          include: 'strings'
-        },
         fields: [
           {
-            name: 'dummy',
-            label: 'Dummy field',
-            type: 'string',
-            description:
-              'This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info'
+            type: 'object',
+            name: 'header',
+            label: 'Site navigation',
+            list: true,
+            fields: [
+              {
+                name: 'identifier',
+                label: 'Identifier',
+                type: 'string',
+                description: 'Unique slug to identify menu item'
+              },
+              {
+                name: 'url',
+                label: 'URL',
+                type: 'string'
+              },
+              {
+                name: 'title',
+                label: 'Language string',
+                type: 'string',
+                description:
+                  'String to use to lookup translations for menu item text'
+              }
+            ],
+            ui: {
+              itemProps: (item) => {
+                return { label: `${item?.identifier}` };
+              }
+            }
+          },
+          {
+            type: 'object',
+            name: 'languages',
+            label: 'Language selection',
+            list: true,
+            fields: [
+              {
+                name: 'label',
+                label: 'Label',
+                type: 'string',
+                description:
+                  'Name of language as you want it to appear in the menu'
+              },
+              {
+                name: 'code',
+                label: 'Code',
+                type: 'string',
+                description: 'Two-letter language code identifier'
+              }
+            ],
+            ui: {
+              itemProps: (item) => {
+                return { label: `${item?.label}` };
+              }
+            }
           }
         ]
       },
       {
-        format: 'yaml',
-        label: 'Spanish',
-        name: 'spanish',
-        path: '_data/es',
+        format: 'json',
+        label: 'Translations',
+        name: 'translations',
+        path: 'src/_data/i18n',
         ui: {
           allowedActions: {
             create: false,
@@ -199,89 +232,98 @@ export default defineConfig({
           }
         },
         match: {
-          include: 'strings'
+          include: '*'
         },
-        fields: [
-          {
-            name: 'dummy',
-            label: 'Dummy field',
-            type: 'string',
-            description:
-              'This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info'
+        fields: [...translationFields()]
+      },
+      // TODO: this is a bug, need to report with TinaCMS
+      // {
+      //   format: 'md',
+      //   label: 'Pages',
+      //   name: 'pages',
+      //   path: 'src',
+      //   match: {
+      //     include: '{en,es,fr,ar,ru}/*'
+      //   },
+      //   fields: [...pagesFields()],
+      //   ui: {
+      //     filename: {
+      //       slugify: (values) => {
+      //         return slugify(values?.title);
+      //       }
+      //     }
+      //   }
+      // },
+      // Temporary work arounds
+      {
+        format: 'md',
+        label: 'Pages: English',
+        name: 'pages_en',
+        path: 'src/en',
+        fields: [...pagesFields()],
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return slugify(values?.title);
+            }
           }
-        ]
+        }
       },
       {
-        format: 'yaml',
-        label: 'French',
-        name: 'french',
-        path: '_data/fr',
+        format: 'md',
+        label: 'Pages: Spanish',
+        name: 'pages_es',
+        path: 'src/es',
+        fields: [...pagesFields()],
         ui: {
-          allowedActions: {
-            create: false,
-            delete: false
+          filename: {
+            slugify: (values) => {
+              return slugify(values?.title);
+            }
           }
-        },
-        match: {
-          include: 'strings'
-        },
-        fields: [
-          {
-            name: 'dummy',
-            label: 'Dummy field',
-            type: 'string',
-            description:
-              'This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info'
-          }
-        ]
+        }
       },
       {
-        format: 'yaml',
-        label: 'Arabic',
-        name: 'arabic',
-        path: '_data/ar',
+        format: 'md',
+        label: 'Pages: French',
+        name: 'pages_fr',
+        path: 'src/fr',
+        fields: [...pagesFields()],
         ui: {
-          allowedActions: {
-            create: false,
-            delete: false
+          filename: {
+            slugify: (values) => {
+              return slugify(values?.title);
+            }
           }
-        },
-        match: {
-          include: 'strings'
-        },
-        fields: [
-          {
-            name: 'dummy',
-            label: 'Dummy field',
-            type: 'string',
-            description:
-              'This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info'
-          }
-        ]
+        }
       },
       {
-        format: 'yaml',
-        label: 'Russian',
-        name: 'russian',
-        path: '_data/ru',
+        format: 'md',
+        label: 'Pages: Arabic',
+        name: 'pages_ar',
+        path: 'src/ar',
+        fields: [...pagesFields()],
         ui: {
-          allowedActions: {
-            create: false,
-            delete: false
+          filename: {
+            slugify: (values) => {
+              return slugify(values?.title);
+            }
           }
-        },
-        match: {
-          include: 'strings'
-        },
-        fields: [
-          {
-            name: 'dummy',
-            label: 'Dummy field',
-            type: 'string',
-            description:
-              'This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info'
+        }
+      },
+      {
+        format: 'md',
+        label: 'Pages: Russian',
+        name: 'pages_ru',
+        path: 'src/ru',
+        fields: [...pagesFields()],
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return slugify(values?.title);
+            }
           }
-        ]
+        }
       }
     ]
   }

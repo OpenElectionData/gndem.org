@@ -42,6 +42,13 @@ export function membersFields() {
       type: 'string',
       name: 'website',
       label: 'Website'
+    },
+    {
+      type: 'boolean',
+      name: 'eleventyExcludeFromCollections',
+      label: 'Hidden',
+      description:
+        'If this is checked, this member will not show up in the members list'
     }
   ];
 }
@@ -50,7 +57,7 @@ export function pagesFields() {
     {
       type: 'string',
       name: 'title',
-      label: 'title',
+      label: 'Title',
       isTitle: true,
       required: true
     },

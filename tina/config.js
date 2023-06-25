@@ -45,6 +45,11 @@ export default defineConfig({
       publicFolder: 'dist'
     }
   },
+  // search: {
+  //   tina: {
+  //     indexerToken: process.env.TINA_SEARCH_TOKEN
+  //   }
+  // },
   schema: {
     collections: [
       {
@@ -230,7 +235,7 @@ export default defineConfig({
           include: '*'
         },
         fields: [...translationFields()]
-      }
+      },
       // TODO: this is a bug, need to report with TinaCMS
       // {
       //   format: 'md',
@@ -238,18 +243,88 @@ export default defineConfig({
       //   name: 'pages',
       //   path: 'src',
       //   match: {
-      //     include: '{en,es}/*'
+      //     include: '{en,es,fr,ar,ru}/*'
       //   },
-      //   fields: [...pagesFields()]
-      //   // ui: {
-      //   //   filename: {
-      //   //     slugify: (values) => {
-      //   //       console.log(values);
-      //   //       return slugify(values?.title);
-      //   //     }
-      //   //   }
-      //   // }
-      // }
+      //   fields: [...pagesFields()],
+      //   ui: {
+      //     filename: {
+      //       slugify: (values) => {
+      //         return slugify(values?.title);
+      //       }
+      //     }
+      //   }
+      // },
+      // Temporary work arounds
+      {
+        format: 'md',
+        label: 'Pages: English',
+        name: 'pages_en',
+        path: 'src/en',
+        fields: [...pagesFields()],
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return slugify(values?.title);
+            }
+          }
+        }
+      },
+      {
+        format: 'md',
+        label: 'Pages: Spanish',
+        name: 'pages_es',
+        path: 'src/es',
+        fields: [...pagesFields()],
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return slugify(values?.title);
+            }
+          }
+        }
+      },
+      {
+        format: 'md',
+        label: 'Pages: French',
+        name: 'pages_fr',
+        path: 'src/fr',
+        fields: [...pagesFields()],
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return slugify(values?.title);
+            }
+          }
+        }
+      },
+      {
+        format: 'md',
+        label: 'Pages: Arabic',
+        name: 'pages_ar',
+        path: 'src/ar',
+        fields: [...pagesFields()],
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return slugify(values?.title);
+            }
+          }
+        }
+      },
+      {
+        format: 'md',
+        label: 'Pages: Russian',
+        name: 'pages_ru',
+        path: 'src/ru',
+        fields: [...pagesFields()],
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return slugify(values?.title);
+            }
+          }
+        }
+      }
     ]
   }
 });

@@ -1,7 +1,7 @@
 ---
 title: GNDEM Statement in Solidarity with NEW in Sierra Leone
 date: 2023-06-27T00:00:00.000Z
-draft: true
+draft: false
 excerpt: >-
   GNDEM stands in solidarity with the citizen election observation organisation
   and GNDEM member National Elections Watch (NEW) in Sierra Leone and condemns

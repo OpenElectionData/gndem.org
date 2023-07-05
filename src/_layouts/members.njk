@@ -34,7 +34,7 @@ layout: base
         <td>{{ member.data.name }}</td>
         <td>{{ member.data.acronym }}</td>
         <td>
-          {%- if member.data.website.size > 0 -%}<a
+          {%- if member.data.website -%}<a
             href="{{ member.data.website }}"
             target="_blank"
             rel="nofollow"

@@ -1,6 +1,7 @@
 node_modules
 _site
 dist
+!dist/uploads/
 .DS_Store
 .env
 

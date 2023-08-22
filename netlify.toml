@@ -21,3 +21,9 @@
   from = "/*"
   to = "/en/:splat"
   status = 200
+
+# Specific page redirect
+[[redirects]]
+  from = "/stories/new-post/"
+  to = "/stories/adn-cambodia-solidarity/"
+  status = 200

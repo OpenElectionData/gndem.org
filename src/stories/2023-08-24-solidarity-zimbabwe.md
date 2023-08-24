@@ -23,3 +23,9 @@ ERC and ZESN are independent nonpartisan organizations comprised of principled a
 This brazen action by the government is a clear violation of the freedom of association and civil rights, and contravenes the rights of observers, recognized as [human rights defenders](https://srdefenders.org/information/the-situation-of-election-observers-as-human-rights-defenders%ef%bf%bc/) by the UN Special Rapporteur. The government’s effective termination of the sample-based observation at a critical point in the electoral process was a clear attempt to limit transparency of the electoral results, and ultimately undermines the credibility of the entire election and its subsequent outcome. 
 
 GNDEM is joining Zimbabwean human rights defenders’ and international election observers’ call for the immediate release of all detained SBO staff and volunteers. GNDEM would also ask the international community and regional bodies to demonstrate support for the rights of Zimbabweans to associate freely as a part of - and in support for - democratic elections.
+
+Statement endorsed by:
+
+Election Network in the Arab Region (ENAR)
+
+Al Hayat Center - RASED for Civil Society Development

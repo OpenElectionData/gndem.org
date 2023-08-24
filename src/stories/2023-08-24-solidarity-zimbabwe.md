@@ -14,6 +14,8 @@ tags:
   - Citizen observer rights
 ---
 
+\[en español a continuación / en francais ci-dessous/ باللغة العربية في الأسفل]
+
 The Global Network for Domestic Election Observers (GNDEM) strongly condemns the raid and arbitrary detention of staff and volunteers of the Election Resource Centre (ERC) and the Zimbabwe Electoral Support Network (ZESN). 
 
 On the night of the 2023 harmonised elections, shortly after polls closed and right as the counting of results at polling stations was underway, armed security officials raided the observation data center of ERC and ZESN. Staff and volunteers were rounded up and taken, while additional staff staying at a nearby hotel were also targeted and seized. Data center and office equipment were also confiscated. In total nearly 40 staff and volunteers, most of them young Zimbabweans, have been unlawfully taken and their whereabouts, at the time of this statement, remain unknown. 
@@ -30,10 +32,7 @@ Statement endorsed by:
 * Red de Observación e Integridad Electoral - Acuerdo de Lima (RedOIE)
 * Al Hayat Center - RASED for Civil Society Development
 
-\[en español a continuación / en francais ci-dessous/ باللغة العربية في الأسفل]
-
-
-\[español]
+\*\[español]\*
 
 La Red Global de Monitores Electorales Nacionales (GNDEM) condena enfáticamente la redada y la detención arbitraria de personal y voluntarios del Election Resource Centre (Centro de Recursos Electorales, ERC) y del Zimbabwe Electoral Support Network (Red de Apoyo Electoral de Zimbabue, ZESN). 
 
@@ -44,7 +43,6 @@ ERC y ZESN son organizaciones independientes y no partidistas compuestas por org
 Esta descarada actuación del gobierno es una clara violación de la libertad de asociación y de los derechos civiles, y contraviene los derechos de los observadores, reconocidos como [defensores de los derechos humanos](https://srdefenders.org/information/the-situation-of-election-observers-as-human-rights-defenders%ef%bf%bc/) por la Relatora Especial de la ONU de la situación de las personas defensoras de los derechos humanos. La terminación efectiva por parte del gobierno de la observación basada en una muestra estadística en un momento crítico del proceso electoral fue un claro intento de limitar la transparencia de los resultados electorales y, en última instancia, debilitar la credibilidad de toda la elección y su posterior resultado. 
 
 GNDEM se une al llamado de los defensores de los derechos humanos de Zimbabue y de los observadores electorales internacionales para la liberación inmediata de todo el personal y los voluntarios de la SBO que fueron detenidos. GNDEM también pide a la comunidad internacional y a los organismos regionales que demuestren su apoyo a los derechos de los zimbabuenses a asociarse libremente como parte de -y en apoyo a- unas elecciones democráticas.
-
 
 \[français]
 
@@ -57,7 +55,6 @@ L'ERC et le ZESN sont des organisations indépendantes et non partisanes, compos
 Cette action éhontée du gouvernement constitue une violation manifeste de la liberté d'association et des droits civils, et contrevient aux droits des observateurs, reconnus comme des [défenseurs des droits de l'homme](https://srdefenders.org/information/the-situation-of-election-observers-as-human-rights-defenders%ef%bf%bc/) par la Rapporteuse spéciale sur la situation des Défenseurs des Droits Humains. L'arrêt effectif par le gouvernement de l'observation par échantillonnage à un moment critique du processus électoral est une tentative évidente de limiter la transparence des résultats électoraux et, en fin de compte, de saper la crédibilité de l'ensemble de l'élection et de ses résultats ultérieurs. 
 
 Le GNDEM se joint à l'appel des défenseurs des droits de l'homme zimbabwéens et des observateurs électoraux internationaux pour demander la libération immédiate de tous les employés et bénévoles du SBO détenus. Le GNDEM demande également à la communauté internationale et aux organismes régionaux de soutenir le droit des Zimbabwéens à s'associer librement pour soutenir des élections démocratiques.
-
 
 \[عربي]
 

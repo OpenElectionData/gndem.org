@@ -26,6 +26,5 @@ GNDEM is joining Zimbabwean human rights defenders’ and international election
 
 Statement endorsed by:
 
-Election Network in the Arab Region (ENAR)
-
-Al Hayat Center - RASED for Civil Society Development
+* Election Network in the Arab Region (ENAR)
+* Al Hayat Center - RASED for Civil Society Development

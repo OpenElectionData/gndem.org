@@ -14,7 +14,7 @@ tags:
   - Citizen observer rights
 ---
 
-\[en español a continuación / en francais ci-dessous/ باللغة العربية في الأسفل]
+*\[en español a continuación / en francais ci-dessous/ باللغة العربية في الأسفل]*
 
 The Global Network for Domestic Election Observers (GNDEM) strongly condemns the raid and arbitrary detention of staff and volunteers of the Election Resource Centre (ERC) and the Zimbabwe Electoral Support Network (ZESN). 
 
@@ -32,7 +32,7 @@ Statement endorsed by:
 * Red de Observación e Integridad Electoral - Acuerdo de Lima (RedOIE)
 * Al Hayat Center - RASED for Civil Society Development
 
-\*\[español]\*
+*\[español]*
 
 La Red Global de Monitores Electorales Nacionales (GNDEM) condena enfáticamente la redada y la detención arbitraria de personal y voluntarios del Election Resource Centre (Centro de Recursos Electorales, ERC) y del Zimbabwe Electoral Support Network (Red de Apoyo Electoral de Zimbabue, ZESN). 
 
@@ -44,7 +44,7 @@ Esta descarada actuación del gobierno es una clara violación de la libertad de
 
 GNDEM se une al llamado de los defensores de los derechos humanos de Zimbabue y de los observadores electorales internacionales para la liberación inmediata de todo el personal y los voluntarios de la SBO que fueron detenidos. GNDEM también pide a la comunidad internacional y a los organismos regionales que demuestren su apoyo a los derechos de los zimbabuenses a asociarse libremente como parte de -y en apoyo a- unas elecciones democráticas.
 
-\[français]
+*\[français]*
 
 Le Réseau mondial d’observateurs nationaux des élections (GNDEM) condamne fermement le raid et la détention arbitraire du personnel et des bénévoles du Election Resource Centre (Centre de ressources électorales, ERC) et du Zimbabwe Electoral Support Network (Réseau de soutien électoral du Zimbabwe, ZESN). 
 
@@ -56,7 +56,7 @@ Cette action éhontée du gouvernement constitue une violation manifeste de la l
 
 Le GNDEM se joint à l'appel des défenseurs des droits de l'homme zimbabwéens et des observateurs électoraux internationaux pour demander la libération immédiate de tous les employés et bénévoles du SBO détenus. Le GNDEM demande également à la communauté internationale et aux organismes régionaux de soutenir le droit des Zimbabwéens à s'associer librement pour soutenir des élections démocratiques.
 
-\[عربي]
+*\[عربي]*
 
 تدين الشبكة العالمية لمراقبي الانتخابات المحليين (GNDEM) بشدة المداهمة والاحتجاز التعسفي لموظفي ومتطوعي مركز الموارد الانتخابية (ERC) وشبكة دعم الانتخابات في زيمبابوي (ZESN). 
 

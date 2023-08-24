@@ -5,6 +5,8 @@ draft: false
 excerpt: "On June 25, Guatemalans went to the polls to elect their new president, Congress and local officials. Citizen observers representing several civil society organizations, including the Misión de Observación Electoral - Guatemala (MOE-Gt),\_ Mirador Electoral and the Plataforma de Mujeres Indígenas (PMI) monitored key aspects of the pre-election and election-day processes."
 tags:
   - Parallel Vote Tabulation (PVT)
+  - Solidarity
+  - Election day observation
 ---
 
 On June 25, Guatemalans went to the polls to elect their new president, Congress and local officials. Citizen observers representing several civil society organizations, including the Misión de Observación Electoral - Guatemala (MOE-Gt),  Mirador Electoral and the Plataforma de Mujeres Indígenas (PMI) monitored key aspects of the pre-election and election-day processes.

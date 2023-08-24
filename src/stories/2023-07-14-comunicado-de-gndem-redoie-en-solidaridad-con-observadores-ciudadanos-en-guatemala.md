@@ -13,6 +13,9 @@ excerpt: >-
 tags:
   - Parallel Vote Tabulation (PVT)
   - Misión de Observación Electoral
+  - Election day observation
+  - Solidarity
+  - Acuerdo de Lima
 ---
 
 El 25 de junio, las y los guatemaltecos asistieron a las urnas a elegir un nuevo presidente, congreso y representantes a nivel local. Observadoras y observadores ciudadanos representando a varias organizaciones de la sociedad civil, incluyendo a la Misión de Observación Electoral - Guatemala (MOE-Gt), Mirador Electoral y la Plataforma de Mujeres Indígenas, monitorearon aspectos clave del proceso pre-electoral y de la jornada electoral.

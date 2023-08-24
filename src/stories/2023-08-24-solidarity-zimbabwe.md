@@ -11,6 +11,7 @@ tags:
   - SADC ESN
   - WAEON
   - Election day observation
+  - Citizen observer rights
 ---
 
 The Global Network for Domestic Election Observers (GNDEM) strongly condemns the raid and arbitrary detention of staff and volunteers of the Election Resource Centre (ERC) and the Zimbabwe Electoral Support Network (ZESN). 

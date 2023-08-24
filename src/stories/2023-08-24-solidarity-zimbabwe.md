@@ -5,6 +5,11 @@ excerpt: >-
   The Global Network for Domestic Election Observers (GNDEM) strongly condemns
   the raid and arbitrary detention of staff and volunteers of the Electoral
   Resource Centre (ERC) and the Zimbabwe Electoral Support Network (ZESN).
+tags:
+  - Solidarity
+  - E-HORN
+  - SADC ESN
+  - WAEON
 ---
 
 The Global Network for Domestic Election Observers (GNDEM) strongly condemns the raid and arbitrary detention of staff and volunteers of the Electoral Resource Centre (ERC) and the Zimbabwe Electoral Support Network (ZESN). 

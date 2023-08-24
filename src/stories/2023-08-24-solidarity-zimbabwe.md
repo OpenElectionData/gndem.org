@@ -29,3 +29,44 @@ Statement endorsed by:
 * Election Network in the Arab Region (ENAR)
 * Red de Observación e Integridad Electoral - Acuerdo de Lima (RedOIE)
 * Al Hayat Center - RASED for Civil Society Development
+
+\[en español a continuación / en francais ci-dessous/ باللغة العربية في الأسفل]
+
+
+\[español]
+
+La Red Global de Monitores Electorales Nacionales (GNDEM) condena enfáticamente la redada y la detención arbitraria de personal y voluntarios del Election Resource Centre (Centro de Recursos Electorales, ERC) y del Zimbabwe Electoral Support Network (Red de Apoyo Electoral de Zimbabue, ZESN). 
+
+En la noche de las elecciones armonizadas de 2023, poco después del cierre de las urnas y justo cuando se iniciaba el conteo de los resultados en las mesas electorales, agentes de seguridad armados allanaron el centro de datos de observación de ERC y ZESN. Los agentes acorralaron y detuvieron al personal y a los voluntarios del centro, así como al personal que se alojaba en un hotel cercano. También se confiscaron equipos del centro de datos y material de oficina. En total, casi 40 miembros del personal y voluntarios, la mayoría jóvenes zimbabuenses, han sido detenidos ilegalmente y, en el momento de redactar esta declaración, siguen en paradero desconocido. 
+
+ERC y ZESN son organizaciones independientes y no partidistas compuestas por organizaciones cívicas diversas y con principios que cuentan con un largo historial de promoción de elecciones pacíficas en Zimbabue. Ambas organizaciones son signatarias de la [Declaración de Principios Globales para la Observación y Monitoreo No Partidario de Elecciones Realizado por Organizaciones Ciudadanas](https://gndem.org/es/declaration-of-global-principles/), que establece normas para la conducta de los observadores y subraya la importancia de una observación electoral independiente, profesional y creíble. Las organizaciones llevaban a cabo una observación con base en una muestra estadística (SBO por sus siglas en inglés) para evaluar sistemáticamente la calidad de los procesos de apertura, votación, cierre y conteo utilizando información disponible públicamente y sus propias observaciones en las mesas electorales. ERC y ZESN son organizaciones debidamente registradas en el país y fueron debidamente acreditadas por la Comisión Electoral de Zimbabwe (ZEC por sus siglas en inglés), la cual estaba al corriente de sus esfuerzos de observación.
+
+Esta descarada actuación del gobierno es una clara violación de la libertad de asociación y de los derechos civiles, y contraviene los derechos de los observadores, reconocidos como [defensores de los derechos humanos](https://srdefenders.org/information/the-situation-of-election-observers-as-human-rights-defenders%ef%bf%bc/) por la Relatora Especial de la ONU de la situación de las personas defensoras de los derechos humanos. La terminación efectiva por parte del gobierno de la observación basada en una muestra estadística en un momento crítico del proceso electoral fue un claro intento de limitar la transparencia de los resultados electorales y, en última instancia, debilitar la credibilidad de toda la elección y su posterior resultado. 
+
+GNDEM se une al llamado de los defensores de los derechos humanos de Zimbabue y de los observadores electorales internacionales para la liberación inmediata de todo el personal y los voluntarios de la SBO que fueron detenidos. GNDEM también pide a la comunidad internacional y a los organismos regionales que demuestren su apoyo a los derechos de los zimbabuenses a asociarse libremente como parte de -y en apoyo a- unas elecciones democráticas.
+
+
+\[français]
+
+Le Réseau mondial d’observateurs nationaux des élections (GNDEM) condamne fermement le raid et la détention arbitraire du personnel et des bénévoles du Election Resource Centre (Centre de ressources électorales, ERC) et du Zimbabwe Electoral Support Network (Réseau de soutien électoral du Zimbabwe, ZESN). 
+
+Dans la soirée des élections harmonisées de 2023, peu après la fermeture des bureaux de vote et alors que le dépouillement des voix dans les bureaux de vote était en cours, des agents de sécurité armés ont fait irruption dans le centre de données d'observation de l'ERC et du ZESN. Le personnel et les volontaires ont été rassemblés et emmenés, ainsi que le personnel supplémentaire séjournant dans un hôtel voisin a également été pris pour cible et saisi. Le centre de données et le matériel du bureau ont également été confisqués. Au total, près de 40 employés et volontaires, dont la plupart sont de jeunes Zimbabwéens, ont été emmenés illégalement et nous ignorons toujours où ils se trouvent à l'heure où nous rédigeons cette déclaration. 
+
+L'ERC et le ZESN sont des organisations indépendantes et non partisanes, composées d'organisations civiques diverses et fondées sur des principes, qui font la promotion des élections pacifiques au Zimbabwe depuis longtemps. Les deux organisations sont signataires de la [Déclaration des principes internationaux pour l’observation et la surveillance impartiales des élections](https://gndem.org/fr/declaration-of-global-principles/), qui fixe des normes pour la conduite des observateurs et souligne l'importance d'une observation indépendante, professionnelle et crédible des élections. Ils ont entrepris une observation basée sur un échantillon (SBO, par son acronyme en anglais) afin d'évaluer systématiquement la qualité des processus d'ouverture, de vote, de clôture et de dépouillement en utilisant des données accessibles au public et à travers leurs propres observations dans les bureaux de vote. L'ERC et le ZESN sont des organisations dûment enregistrées dans le pays et ont été accrédités par la ZEC qui était au informée de leurs efforts d'observation.
+
+Cette action éhontée du gouvernement constitue une violation manifeste de la liberté d'association et des droits civils, et contrevient aux droits des observateurs, reconnus comme des [défenseurs des droits de l'homme](https://srdefenders.org/information/the-situation-of-election-observers-as-human-rights-defenders%ef%bf%bc/) par la Rapporteuse spéciale sur la situation des Défenseurs des Droits Humains. L'arrêt effectif par le gouvernement de l'observation par échantillonnage à un moment critique du processus électoral est une tentative évidente de limiter la transparence des résultats électoraux et, en fin de compte, de saper la crédibilité de l'ensemble de l'élection et de ses résultats ultérieurs. 
+
+Le GNDEM se joint à l'appel des défenseurs des droits de l'homme zimbabwéens et des observateurs électoraux internationaux pour demander la libération immédiate de tous les employés et bénévoles du SBO détenus. Le GNDEM demande également à la communauté internationale et aux organismes régionaux de soutenir le droit des Zimbabwéens à s'associer librement pour soutenir des élections démocratiques.
+
+
+\[عربي]
+
+تدين الشبكة العالمية لمراقبي الانتخابات المحليين (GNDEM) بشدة المداهمة والاحتجاز التعسفي لموظفي ومتطوعي مركز الموارد الانتخابية (ERC) وشبكة دعم الانتخابات في زيمبابوي (ZESN). 
+
+في ليلة الانتخابات المنسقة لعام 2023، بعد وقت قصير من إغلاق صناديق الاقتراع ومع بدء فرز النتائج في مراكز الاقتراع، داهم عدد من أعوان الأمن المسلحين مركز بيانات المراقبة التابع ل ERC و ZESN. وتم القبض على الموظفين والمتطوعين واقتيادهم، كذلك تم استهداف واحتجاز موظفين إضافيين يقيمون في فندق قريب. كما تمت مصادرة مركز البيانات والمعدات المكتبية. وقد اقتيد ما مجموعه يقراب 40 موظفا ومتطوعا، معظمهم من الشباب الزمبابويين، بصورة غير مشروعة، ولا يزال مكان وجودهم إلى حد الآن، مجهولا. 
+
+ERC و ZESN هي منظمات مستقلة غير حزبية تتألف من منظمات مدنية مبدئية ومتنوعة لها تاريخ طويل في تعزيز الانتخابات السلمية في زيمبابوي. وقد وقعت كلتا المنظمتين على إعلان المبادئ العالمية لمراقبة الانتخابات من قبل المنظمات المدنية الذي يضع معايير لسلوك المراقبين ويؤكد على أهمية مراقبة الانتخابات بشكل مستقل ومهني تحظى بمصداقية. وأجروا مراقبة قائمة على عينه إحصائية لتقييم منهجي لجودة عمليات الفتح والتصويت والإغلاق والعد باستخدام البيانات المتاحة للجمهور وبملاحظاتهم الخاصة في مركز الاقتراع. ERC و ZESN منظمتان مسجلتان حسب القانون في البلاد ، وقد تم اعتمادهما من قبل ZEC التي كانت على علم بجهود المراقبة التي يبذلهما.
+
+هذا العمل المدان من قبل الحكومة هو انتهاك واضح لحرية تكوين الجمعيات والحقوق المدنية، ويتعارض مع حقوق المراقبين، المعترف بهم كمدافعين عن حقوق الإنسان من قبل المقرر الخاص للأمم المتحدة. يعد إنهاء الحكومة للمراقبة القائمة على العينة الإحصائية في مرحلة حرجة من العملية الانتخابية محاولة واضحة للحد من شفافية نتائج الانتخابات، وفي نهاية المطاف تقويض مصداقية الانتخابات بأكملها ونتائجها. 
+
+تنضم الشبكة العالمية لمدافعي حقوق الإنسان ومراقبي الانتخابات الدوليين في زيمبابوي إلى الدعوة إلى الإفراج الفوري عن جميع موظفي ومتطوعي المحتجزين. كما تطلب الشبكة العالمية من المجتمع الدولي والهيئات الإقليمية لدعم حقوق الزيمبابويين في تكوين الجمعيات بحرية تدعم الانتخابات الديمقراطية.

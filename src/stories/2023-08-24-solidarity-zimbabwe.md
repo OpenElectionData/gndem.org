@@ -13,7 +13,7 @@ tags:
   - Election day observation
 ---
 
-The Global Network for Domestic Election Observers (GNDEM) strongly condemns the raid and arbitrary detention of staff and volunteers of the Electoral Resource Centre (ERC) and the Zimbabwe Electoral Support Network (ZESN). 
+The Global Network for Domestic Election Observers (GNDEM) strongly condemns the raid and arbitrary detention of staff and volunteers of the Election Resource Centre (ERC) and the Zimbabwe Electoral Support Network (ZESN). 
 
 On the night of the 2023 harmonised elections, shortly after polls closed and right as the counting of results at polling stations was underway, armed security officials raided the observation data center of ERC and ZESN. Staff and volunteers were rounded up and taken, while additional staff staying at a nearby hotel were also targeted and seized. Data center and office equipment were also confiscated. In total nearly 40 staff and volunteers, most of them young Zimbabweans, have been unlawfully taken and their whereabouts, at the time of this statement, remain unknown. 
 

@@ -3,7 +3,7 @@ title: >-
   GNDEM Members Attend the 18th Annual Implementation Meeting of the Declaration
   of Principles for International Election Observation
 date: 2023-12-15T00:00:00.000Z
-draft: true
+draft: false
 excerpt: >-
   In November 2023, representatives from GNDEM members Centre for Democratic
   Development (CDD-Ghana)/West Africa Election Observers Network (WAEON), Civil

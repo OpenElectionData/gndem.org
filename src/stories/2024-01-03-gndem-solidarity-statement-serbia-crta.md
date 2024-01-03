@@ -5,10 +5,10 @@ title: >-
 date: 2024-01-03T00:00:00.000Z
 draft: true
 excerpt: >-
-  GNDEM stands in solidarity with CRTA and all nonpartisan citizen election
-  observers who face threats against their right to observe elections and defend
-  the right of citizens to exercise their vote. GNDEM condemns all forms of
-  threats, harassment and violence against nonpartisan citizen election
+  GNDEM stands in solidarity with CRTA in Serbia and all nonpartisan citizen
+  election observers who face threats against their right to observe elections
+  and defend the right of citizens to exercise their vote. GNDEM condemns all
+  forms of threats, harassment and violence against nonpartisan citizen election
   observers. 
 tags:
   - Solidarity

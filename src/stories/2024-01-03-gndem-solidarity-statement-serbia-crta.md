@@ -3,7 +3,7 @@ title: >-
   GNDEM Expresses its Solidarity with Observers in Serbia and its Concern over
   Attacks on CRTA
 date: 2024-01-03T00:00:00.000Z
-draft: true
+draft: false
 excerpt: >-
   GNDEM stands in solidarity with CRTA in Serbia and all nonpartisan citizen
   election observers who face threats against their right to observe elections

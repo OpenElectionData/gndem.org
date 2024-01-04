@@ -24,4 +24,8 @@ GNDEM stands in solidarity with CRTA and all nonpartisan citizen election observ
 
 As the United Nations Special Rapporteur on the Situation of Human Rights Defenders stated, election observers, including nonpartisan citizen election observers, are [human rights defenders](https://srdefenders.org/information/the-situation-of-election-observers-as-human-rights-defenders%ef%bf%bc/) who serve to protect civil and political rights of citizens and that “Member States are urged to take all necessary steps to establish conditions that allow national and international election observers to effectively do their work, and to protect them from any violence, threats, retaliation, adverse discrimination, pressure or any other arbitrary action as a consequence of their legitimate exercise of their rights and freedoms.” 
 
-We urge the Serbian authorities to hold accountable its officials who are attacking CRTA and adhere to its responsibility to protect human rights defenders per international law. GNDEM also appeals to international and regional observation missions and institutions to support CRTA and human rights defenders in Serbia. 
+We urge the Serbian authorities to hold accountable its officials who are attacking CRTA and adhere to its responsibility to protect human rights defenders per international law. GNDEM also appeals to international and regional observation missions and institutions to support CRTA and human rights defenders in Serbia.
+
+Endorsed by:
+
+Asian Network for Free Elections (ANFREL)

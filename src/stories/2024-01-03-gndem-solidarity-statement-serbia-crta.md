@@ -29,3 +29,7 @@ We urge the Serbian authorities to hold accountable its officials who are attack
 Endorsed by:
 
 Asian Network for Free Elections (ANFREL)
+
+Red de Observación e Integridad Electoral - Acuerdo de Lima (RedOIE)
+
+Elections Support Network for Southern Africa (ESN-SA)

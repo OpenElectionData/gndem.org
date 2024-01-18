@@ -1,4 +1,15 @@
 {
+  "members_regional_networks": [
+    "Asian Network for Free Elections (ANFREL)",
+    "Southern African Development Community Election Support Network (SADC ESN)",
+    "Red de Observación e Integridad Electoral - Acuerdo de Lima (RedOIE)",
+    "European Network of Election Monitoring Organizations (ENEMO)",
+    "West Africa Election Observers Network (WAEON)",
+    "European Platform for Democratic Elections (EPDE)",
+    "East and Horn of Africa Election Observers Network (E-HORN)",
+    "Arab Network for Democratic Elections (ANDE)",
+    "Election Network in the Arab Region (ENAR)"
+  ],
   "dogp_networks": [
     "ANFREL",
     "E-HORN",
@@ -25,16 +36,5 @@
     "PACE",
     "UN Secretariat",
     "Venice Commission"
-  ],
-  "members_regional_networks": [
-    "Asian Network for Free Elections (ANFREL)",
-    "Southern African Development Community Election Support Network (SADC ESN)",
-    "Red de Observación e Integridad Electoral - Acuerdo de Lima (RedOIE)",
-    "European Network of Election Monitoring Organizations (ENEMO)",
-    "West Africa Election Observers Network (WAEON)",
-    "European Platform for Democratic Elections",
-    "East and Horn of Africa Election Observers Network",
-    "Arab Network for Democratic Elections (ANDE)",
-    "Election Network in the Arab Region (ENAR)"
   ]
 }

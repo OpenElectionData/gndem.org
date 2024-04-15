@@ -8,6 +8,6 @@ name: >-
 country: regional
 region: LAC
 acronym: RedOIE
-website: 'https://www.moe.org.co/red-oie/'
+website: 'https://www.moe.org.co/red-de-observacion-e-integridad-electoral-red-oie/'
 ---
 

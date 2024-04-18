@@ -14,6 +14,7 @@ tags:
   - Solidarity
   - Citizen observer rights
   - Central & Eastern Europe
+  - Election day observation
 ---
 
 The Global Network of Domestic Election Monitors (GNDEM) expresses its deep concern with increasing attacks on the nonpartisan citizen election observers, the [Center for Research, Transparency and Accountability (CRTA)](https://crta.rs/en/), in Serbia following the December 2023 snap elections. These attacks from government officials threaten the ability of CRTA to legally observe elections and puts their safety at risk. The situation reflects significant worsening of conditions for citizen election observers and wider civil society actors and human rights defenders in Serbia. 

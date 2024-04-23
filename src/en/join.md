@@ -6,7 +6,7 @@ layout:
 
 <p>
     Please fill out the following form to register your domestic (citizen) monitoring organization as a member of the Global Network of Domestic Election Monitors (GNDEM). Please note that as of March 2012, all members and new members to GNDEM are considered Endorsers of the Declaration of Global Principles.
-    Questions? Send us an email at <a href="mailto:gndem09@gmail.com">gndem09@gmail.com</a>.
+    Questions? Send us an email at <a href="mailto:info@gndem.org">info@gndem.org</a>.
 </p>
 <div class="join-form">
     <form action="https://docs.google.com/forms/d/e/1FAIpQLSfLBun_QqmWNjkZSRPnWLvD-7Q4zye3xxWatn2S02KRVf2NqQ/formResponse" method="post">

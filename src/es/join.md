@@ -1,5 +1,7 @@
 ---
 title: Unase a GNDEM
+layout:
+  - page
 ---
 
 <p>

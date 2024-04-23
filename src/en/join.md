@@ -1,7 +1,6 @@
 ---
+layout: page
 title: Join GNDEM
-layout:
-  - page
 ---
 
 <p>
@@ -18,14 +17,11 @@ layout:
         <label for="entry.2033957242"><span>Director's Email <span class="required">*</span></span><input type="text" class="input-field" name="entry.2033957242" value="" required /></label>
         <label for="entry.6948306"><span>Name of Person Completing Form on Behalf of Organization <span class="required">*</span></span><input type="text" class="input-field" name="entry.6948306" value="" required /></label>
         <label for="entry.1830295448"><span>Email Address <span class="required">*</span></span><input type="text" class="input-field" name="entry.1830295448" value="" required /></label>
-
-```
-    <label for="entry.1504255594"><span>Social Media Accounts <span class="required">*</span></span><textarea name="entry.1504255594" class="textarea-field" required></textarea></label>
-    <label for="entry.633119752"><span>Date of Last Election Observed <span class="required">*</span></span><input type="text" class="input-field" name="entry.633119752" value="" required /></label>
-    
-    <label for="entry.407336708"><span>Date of Next Election Your Organization Plans to Observe <span class="required">*</span></span><textarea name="entry.407336708" class="textarea-field" required></textarea></label>
-    <label><span>&nbsp;</span><input type="submit" value="Submit" /></label>
-</form>
-```
-
+        
+        <label for="entry.1504255594"><span>Social Media Accounts <span class="required">*</span></span><textarea name="entry.1504255594" class="textarea-field" required></textarea></label>
+        <label for="entry.633119752"><span>Date of Last Election Observed <span class="required">*</span></span><input type="text" class="input-field" name="entry.633119752" value="" required /></label>
+        
+        <label for="entry.407336708"><span>Date of Next Election Your Organization Plans to Observe <span class="required">*</span></span><textarea name="entry.407336708" class="textarea-field" required></textarea></label>
+        <label><span>&nbsp;</span><input type="submit" value="Submit" /></label>
+    </form>
 </div>

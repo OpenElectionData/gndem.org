@@ -30,6 +30,8 @@ Endorsed by:
 
 East and Horn of Africa Election Observers Network (E-HORN)
 
+European Network of Election Monitoring Organizations (ENEMO)
+
 West Africa Election Observers Network (WAEON)
 
 African Election Observers Network (AfEONet)

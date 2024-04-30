@@ -1,7 +1,7 @@
 ---
 title: GNDEM Expresses its Solidarity with Detained Observers in Azerbaijan
 date: 2024-04-30T00:00:00.000Z
-draft: true
+draft: false
 excerpt: >-
   GNDEM expresses its deep concern with the detainment of citizen election
   observers from the Election Monitoring and Democracy Studies Center (EMDS) in

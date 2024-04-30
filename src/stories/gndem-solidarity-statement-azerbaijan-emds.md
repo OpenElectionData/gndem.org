@@ -30,6 +30,8 @@ Endorsed by:
 
 East and Horn of Africa Election Observers Network (E-HORN)
 
+Election Support Network of Southern Africa (ESN SA)
+
 European Network of Election Monitoring Organizations (ENEMO)
 
 European Platform for Democratic Elections (EPDE)

@@ -36,6 +36,8 @@ European Network of Election Monitoring Organizations (ENEMO)
 
 European Platform for Democratic Elections (EPDE)
 
+Red de Observación e Integridad Electoral - Acuerdo de Lima (RedOIE)
+
 West Africa Election Observers Network (WAEON)
 
 African Election Observers Network (AfEONet)

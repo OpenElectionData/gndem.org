@@ -28,6 +28,8 @@ We urge the Azerbaijani authorities to hold accountable any officials responsibl
 
 Endorsed by:
 
+Asian Network for Free Elections (ANFREL)
+
 East and Horn of Africa Election Observers Network (E-HORN)
 
 Election Support Network of Southern Africa (ESN SA)

@@ -4,7 +4,12 @@ title: >-
   Russian-Style Foreign Influence Law
 date: 2024-05-13T00:00:00.000Z
 draft: true
-excerpt: ''
+excerpt: >-
+  GNDEM expresses its deep concern with efforts to undermine the right of
+  citizens to monitor their own election processes, both through the Georgian
+  Parliament’s consideration of the Russian-style foreign influence law and the
+  constant verbal attacks by government officials on citizen observers and the
+  ongoing harassment of civic leaders more broadly.
 tags:
   - Solidarity
   - Citizen observer rights
@@ -19,3 +24,13 @@ As the United Nations Special Rapporteur on the Situation of Human Rights Defend
 This draft law poses critical risks to the integrity of this electoral process and the rights of citizen election observers. We urge the Georgian Parliament to reject the draft law in its plenary session, and Georgian authorities to hold accountable any officials responsible for the harassment of representatives and staff of GNDEM members ISFED and GYLA, as well as other prominent civic organizations including TI-Georgia. Authorities must adhere to their responsibility to protect human rights defenders in accordance with international law. GNDEM also appeals to international and regional observation missions and institutions to support citizen observers and other human rights defenders in Georgia.
 
 Endorsed by:
+
+European Network of Election Monitoring Organizations (ENEMO)
+
+West Africa Election Observers Network (WAEON)
+
+African Election Observers Network (AfEONet)
+
+Civil Network OPORA, Ukraine
+
+Centre for Monitoring and Research (CeMI), Montenegro

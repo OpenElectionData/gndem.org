@@ -3,7 +3,7 @@ title: >-
   GNDEM Expresses its Solidarity with Citizen Observers Targeted by
   Russian-Style Foreign Influence Law
 date: 2024-05-13T00:00:00.000Z
-draft: true
+draft: false
 excerpt: >-
   GNDEM expresses its deep concern with efforts to undermine the right of
   citizens to monitor their own election processes, both through the Georgian

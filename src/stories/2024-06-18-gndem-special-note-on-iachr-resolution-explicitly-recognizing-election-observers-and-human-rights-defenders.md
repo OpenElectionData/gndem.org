@@ -1,7 +1,7 @@
 ---
 title: >-
   GNDEM Special Note on IACHR Resolution Explicitly Recognizing Election
-  Observers and Human Rights Defenders
+  Observers as Human Rights Defenders
 date: 2024-06-18T00:00:00.000Z
 draft: false
 excerpt: "On 23 May 2024, The Inter-American Commission on Human Rights (IACHR) issued a resolution recognizing international and citizen election monitors as human rights defenders due to their critical role in protecting human rights and defending democracy.\_"

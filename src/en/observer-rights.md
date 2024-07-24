@@ -2,7 +2,7 @@
 title: Observer Rights
 draft: false
 layout:
-  - principles
+  - page
 ---
 
 test

@@ -1,6 +1,6 @@
 ---
 title: Observer Rights
-draft: true
+draft: false
 ---
 
 test

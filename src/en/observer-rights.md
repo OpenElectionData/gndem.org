@@ -1,28 +1,27 @@
 ---
 title: Observer Rights
 draft: false
-layout:
-  - page
+layout: page
 ---
 
 Observer rights....
 
 ```html
 <table>
-  <tr>
-    <th> Violation Type</th>
-    <th>Date</th>
-    <th>Region</th>
-    <th>Country</th>
-    <th>Description</th>
-  </tr>
+  <th>
+    <td> Violation Type</td>
+    <td>Date</td>
+    <td>Region</td>
+    <td>Country</td>
+    <td>Description</td>
+  </th>
  <tr>
-   <th>Accreditation</th>
-   <th>August 2024</th>
-   <th>Africa</th>
-   <th>Sample</th>
-   <th>Accreditation severely delayed</th>
+   <td>Accreditation</td>
+   <td>August 2024</td>
+   <td>Africa</td>
+   <td>Sample</td>
+   <td>Accreditation severely delayed</td>
   </tr>
-  </table>
+</table>
 
 ```

@@ -1,7 +1,8 @@
 ---
 title: Observer Rights
 draft: false
-layout: page
+layout:
+  - page
 ---
 
 Observer rights....
@@ -22,5 +23,6 @@ Observer rights....
    <th>Sample</th>
    <th>Accreditation severely delayed</th>
   </tr>
+  </table>
 
 ```

@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Observer Rights
+layout:
+  - page
 ---
 
-test
+Hello world!

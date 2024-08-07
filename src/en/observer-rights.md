@@ -1,7 +1,8 @@
 ---
 title: Observer Rights
 draft: false
-layout: page
+layout:
+  - page
 ---
 
 Observer rights....
@@ -10,7 +11,6 @@ Observer rights....
 \| --- | --- | --- | --- | --- | --- |
 \| Accreditation | August 2024 | Africa | Country | Accreditation severely delayed | Link |
 
-```rich-text
 <table>
   <tr>
     <th> Violation Type</th>
@@ -27,5 +27,3 @@ Observer rights....
    <td>Accreditation severely delayed</td>
   </tr>
 </table>
-
-```

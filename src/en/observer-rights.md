@@ -1,7 +1,8 @@
 ---
 title: Observer Rights
 draft: false
-layout: page
+layout:
+  - page
 ---
 
 Observer rights....

@@ -12,13 +12,13 @@ Observer rights....
 
 ```html
 <table>
-  <th>
-    <td> Violation Type</td>
-    <td>Date</td>
-    <td>Region</td>
-    <td>Country</td>
-    <td>Description</td>
-  </th>
+  <tr>
+    <th> Violation Type</th>
+    <th>Date</th>
+    <th>Region</th>
+    <th>Country</th>
+    <th>Description</th>
+  </tr>
  <tr>
    <td>Accreditation</td>
    <td>August 2024</td>

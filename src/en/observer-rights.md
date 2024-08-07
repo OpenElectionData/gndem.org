@@ -10,9 +10,9 @@ Observer rights....
 \| --- | --- | --- | --- | --- | --- |
 \| Accreditation | August 2024 | Africa | Country | Accreditation severely delayed | Link |
 
-<table>
+<table style="border: 1px solid black;">
   <tr>
-    <th> Violation Type</th>
+    <th>Violation Type</th>
     <th>Date</th>
     <th>Region</th>
     <th>Country</th>

@@ -21,6 +21,6 @@ Observer rights....
    <td style="border: 1px solid black;">Africa</td>
    <td style="border: 1px solid black;">Sample</td>
    <td style="border: 1px solid black;">Accreditation severely delayed</td>
-   <td style="border: 1px solid black;"><a href="https://www.ndi.org">Link</a></td>
+   <td style="border: 1px solid black;"><a href="https://www.reuters.com">Link</a></td>
   </tr>
 </table>

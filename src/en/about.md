@@ -1,7 +1,6 @@
 ---
 title: About GNDEM
-layout:
-  - page
+layout: page
 ---
 
 The Global Network of Domestic Election Monitors (GNDEM) is based on the following precepts: The authority of government derives from the will of the people expressed in genuinely democratic elections. Everyone has the right to participate in government and public affairs, including by seeking to be elected and to vote in genuinely democratic elections. Elections therefore belong to the people, and citizens have a right to know whether elections honestly and accurately reflect the people’s will.

@@ -16,6 +16,11 @@
       "title": "menu_stories"
     },
     {
+      "identifier": "observer rights",
+      "url": "/observer-rights/",
+      "title": "menu_observer_rights"
+    },
+    {
       "identifier": "about",
       "url": "/about/",
       "title": "menu_about"

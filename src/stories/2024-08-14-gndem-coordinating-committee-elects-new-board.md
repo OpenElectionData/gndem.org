@@ -27,6 +27,8 @@ From June 24 to 26, 2024, GNDEM’s Coordinating Committee, comprised of represe
 
 The new Board will lead the network and work to implement the network’s strategic vision. The new Board is composed of:
 
+![](</uploads/GNDEM Board Graphic (1).png>)
+
 * GNDEM Chairperson: Dr. Sarah Bireete ([Center for Constitutional Governance Uganda](https://ccgea.org/), [East and Horn of Africa Election Observer Network](https://ehorn.org/))
 * Deputy Chairperson: Dr. Zlatko Vujovic ([Centre for Monitoring and Research Montenegro](https://cemi.org.me/en), [European Network of Election Monitoring Organizations](https://enemo.org/))
 * Membership Chairperson: Elberel Davaa ([Women for Social Progress Mongolia](https://www.facebook.com/WomenforSocialProgress/?ref=br_rs&_rdc=1&_rdr), [Asian Network for Free Elections](https://anfrel.org/))

@@ -1,7 +1,7 @@
 ---
 title: GNDEM Coordinating Committee Elects New Board
 date: 2024-08-14T00:00:00.000Z
-image: /uploads/GNDEM Board Graphic (1).png
+image: ''
 excerpt: >-
   From June 24 to 26, 2024, GNDEM’s Coordinating Committee, comprised of
   representatives from GNDEM’s nine regional networks, met in Nairobi, Kenya for
@@ -26,6 +26,8 @@ tags:
 From June 24 to 26, 2024, GNDEM’s Coordinating Committee, comprised of representatives from GNDEM’s nine regional networks, met in Nairobi, Kenya for the 2024 Strategic Planning and the Implementation Meeting of the Declaration of Global Principles (DoGP) for Nonpartisan Election Observation and Monitoring by Citizen Organizations. At the end of the three-day meeting, the Committee elected the new GNDEM Board for the period 2024-2028.
 
 The new Board will lead the network and work to implement the network’s strategic vision. The new Board is composed of:
+
+![](</uploads/GNDEM Board Graphic (1).png>)
 
 * GNDEM Chairperson: Dr. Sarah Bireete ([Center for Constitutional Governance Uganda](https://ccgea.org/), [East and Horn of Africa Election Observer Network](https://ehorn.org/))
 * Deputy Chairperson: Dr. Zlatko Vujovic ([Centre for Monitoring and Research Montenegro](https://cemi.org.me/en), [European Network of Election Monitoring Organizations](https://enemo.org/))

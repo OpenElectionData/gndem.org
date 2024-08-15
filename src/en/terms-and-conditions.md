@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Terms & Conditions
+layout:
+  - page
 ---
 
 When Users access GNDEM’s data, tools or publications through GNDEM websites, users must agree to the terms below as well as GNDEM’s Privacy Policy.
@@ -14,7 +15,7 @@ When visitors browse, read or download information on the GNDEM website, limited
 
 GNDEM also uses Google Analytics to help GNDEM better understand how visitors engage with the GNDEM website. Google Analytics, is used by GNDEM solely to obtain non personally identifiable information -- including age and gender -- about GNDEM website visitors. This information provides GNDEM with more detailed usage statistics to assist GNDEM in understanding what types of groups have access to and potentially benefit from the information GNDEM provides on its website.
 
-If you for whatever reason you would like to “opt out” of Google Analytics, please email us at gndem09@gmail.com.
+If you for whatever reason you would like to “opt out” of Google Analytics, please email us at [info@gndem.org](info@gndem.org "info@gndem.org").
 
 ## Cookie Policy
 
@@ -22,9 +23,9 @@ GNDEM websites use web cookies — small data files that are placed on the user�
 
 GNDEM uses cookies to improve the user experience within the context of a single browser session or between site visits. Cookies may contain a “key” so that users do not need to login every time a new page is visited, or when returning to the GNDEM website from the same computer at a later date.
 
-- for site operation, for example to enable a user to access and update address information for our mailing list or a CV if it was submitted to apply for a vacancy;
-- to analyze use of the site by, for example, recognizing and counting the number of visitors and how they move around the site.This helps GNDEM to see what parts of our site are popular and which sections may need improving to make the experience better for users; and
-- to record the user’s visit to the site and the pages visited as well the links followed.We will use this to make the site more relevant to your interests.
+* for site operation, for example to enable a user to access and update address information for our mailing list or a CV if it was submitted to apply for a vacancy;
+* to analyze use of the site by, for example, recognizing and counting the number of visitors and how they move around the site.This helps GNDEM to see what parts of our site are popular and which sections may need improving to make the experience better for users; and
+* to record the user’s visit to the site and the pages visited as well the links followed.We will use this to make the site more relevant to your interests.
 
 GNDEM does not use cookies for commercial marketing purposes and will not use cookies to collect personally identifiable information about you, but If you wish to restrict or block the cookies which are set by this site (or, indeed, on any other site) you can do this through your browser settings. The ‘Help’ function within your browser should tell you how. Please note that restricting cookies may mean that a user will not be able to take full advantage of all the features or services available on this site.
 

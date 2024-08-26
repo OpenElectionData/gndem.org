@@ -22,3 +22,25 @@ Tunisia will hold their presidential elections on October 6, 2024 amid serious c
 GNDEM condemns all forms of threats, harassment and violence against nonpartisan citizen election observers. As the United Nations Special Rapporteur on the Situation of Human Rights Defenders stated, election observers, including nonpartisan citizen election observers, [are human rights defenders ](https://srdefenders.org/information/the-situation-of-election-observers-as-human-rights-defenders%ef%bf%bc/)who serve to protect civil and political rights of citizens and that “Member States are urged to take all necessary steps to establish conditions that allow national and international election observers to effectively do their work, and to protect them from any violence, threats, retaliation, adverse discrimination, pressure or any other arbitrary action as a consequence of their legitimate exercise of their rights and freedoms.”
 
 We urge the Tunisian election commission to grant the accreditation of I Watch and other nonpartisan citizen election observers, and ensure their ability to freely observe the entire electoral process. We further urge the international community and international election observers to advocate for the rights of citizen election observers and call upon the ISIE and national stakeholders to ensure that these rights are respected and upheld.
+
+***
+
+بيان تضامن الشبكة العالمية لمراقبي الانتخابات المحليين إزاء رفض اعتماد ملاحظي الانتخابات منظمة أنا يقظ (I Watch)في تونس
+
+تعرب الشبكة العالمية لمراقبي الانتخابات المحليين (GNDEM) عن قلقها العميق إزاء رفض الهيئة العليا المستقلة للانتخابات في تونس اعتماد مجموعة ملاحظي الانتخابات المحليين أنا يقظ I Watch. 
+
+ان رفض اعتماد ملاحظ الانتخابات المحليين يساهم في خلق مناخ من الخوف ويعيق حقوق المواطنين التونسيين في تواجد رقابة مستقلة على انتخابات بلدهم. 
+
+تقف الشبكة العالمية لمراقبي الانتخابات المحليين تضامناً مع منظمة أنا يقظ I Watch وجميع ملاحظي الانتخابات المحليين الذين يواجهون تهديدات بالمساس بحقهم في ملاحظة الانتخابات والدفاع عن حق المواطنين في ممارسة حقهم في التصويت.
+
+ستنتظم الانتخابات الرئاسية التونسية يوم 6 أكتوبر 2024 وسط مخاوف تتعلق بالقيود المختلفة المحيطة بالانتخابات والتي استهدفت المرشحين المحتملين والصحفيين والمجتمع المدني. 
+
+هذا و استنكر الملاحظون المدنيون مرارًا وتكرارًا محاولات المس بحقهم في الحصول على الاعتماد لملاحظة المراحل المختلفة للعملية الانتخابية بالإضافة إلى حقهم في النفاذ إلى المعلومات المتعلقة بالانتخابات والتي تؤثر على شفافية العمليات الانتخابية في تونس منذ الاستفتاء على الدستور في 2022.
+
+بناءا عليه تدين الشبكة العالمية لمراقبي الانتخابات المحليين جميع أشكال التهديدات والمضايقات ضد ملاحظي الانتخابات المحليين المستقلين.
+
+إن ملاحظي الانتخابات، بما في ذلك ملاحظي الانتخابات المحليين هم مدافعون عن حقوق الإنسان يعملون على حماية الحقوق المدنية والسياسية للمواطنين وأن "الدول الأعضاء مدعوون إلى اتخاذ جميع الخطوات اللازمة لتهيئة الظروف التي تسمح للملاحظين المحليين والدوليين للانتخابات بأداء عملهم بشكل فعال، وحمايتهم من أي عنف أو تهديد أو انتقام أو تمييز سلبي أو ضغوط أو أي إجراء تعسفي آخر نتيجة لممارستهم المشروعة لحقوقهم وحرياتهم"، حسب ما ذكر المقرر الخاص للأمم المتحدة المعني بوضعية المدافعين عن حقوق الإنسان.
+
+وعليه نحث الهيئة العليا المستقلة للانتخابات في تونس على منح الاعتماد لمنظمة أنا يقظ وغيرها من الملاحظين المحليين للانتخابات، وضمان قدرتهم على ملاحظة العملية الانتخابية برمتها بحرية. 
+
+كما نحث المجتمع الدولي ومراقبي الانتخابات الدوليين على الدفاع عن حقوق الملاحظين المحليين وندعو الهيئة العليا المستقلة للانتخابات وجميع الأطراف إلى ضمان احترام هذه الحقوق والحفاظ عليها.

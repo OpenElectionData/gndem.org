@@ -3,6 +3,13 @@ title: >-
   GNDEM Statement of Solidarity over the Refusal to Accredit Citizen Observers I
   Watch in Tunisia
 date: 2024-08-25T00:00:00.000Z
+excerpt: >-
+  GNDEM expresses its deep concern with the Tunisian Independent Higher
+  Authority for Elections (ISIE) refusal to accredit the nonpartisan citizen
+  election observer group I Watch. GNDEM stands in solidarity with I Watch and
+  all nonpartisan citizen election observers who face threats against their
+  right to observe elections and defend the right of citizens to exercise their
+  vote.
 tags:
   - Solidarity
   - Citizen observer rights

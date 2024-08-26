@@ -1,7 +1,6 @@
 ---
 title: Terms & Conditions
-layout:
-  - page
+layout: page
 ---
 
 When Users access GNDEM’s data, tools or publications through GNDEM websites, users must agree to the terms below as well as GNDEM’s Privacy Policy.

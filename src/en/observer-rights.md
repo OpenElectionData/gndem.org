@@ -6,7 +6,7 @@ layout: page
 
 Observer rights....
 
-<table style="border: 1px solid black;">
+<table id="members_table">
   <tr>
     <th style="border: 1px solid black;">Violation Types</th>
     <th style="border: 1px solid black;">Date</th>

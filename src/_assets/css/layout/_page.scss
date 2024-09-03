@@ -112,6 +112,21 @@
   }
 }
 
+#obs_rights_table {
+  margin-bottom: 2rem;
+
+  thead {
+    th {
+      text-align: left;
+      padding: 8px 10px;
+    }
+  }
+
+  tr.even {
+    background-color: $off-white;
+  }
+}
+
 .dataTables_wrapper .dataTables_paginate .paginate_button.current,
 .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
   background: $off-white !important;

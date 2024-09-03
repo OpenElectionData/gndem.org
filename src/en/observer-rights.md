@@ -19,6 +19,7 @@ The following table details reported instances of observer rights violations.
     <th>Link</th>
   </tr>
   </thead>
+ <tbody>
  <tr>
    <td>Accreditation</td>
    <td>August 2024</td>
@@ -35,4 +36,5 @@ The following table details reported instances of observer rights violations.
    <td>Accreditation severely delayed</td>
    <td><a href="https://www.reuters.com">Link</a></td>
   </tr>
+  </tbody>
 </table>

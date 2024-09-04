@@ -11,6 +11,7 @@ excerpt: >-
   mission, core values, and guiding principles.
 tags:
   - Citizen observer rights
+  - GNDEM Updates
 ---
 
 On August 20, 2024, the newly-elected GNDEM Board held its first virtual meeting and adopted the network’s new strategic plan. The plan follows a series of virtual strategic planning sessions held with GNDEM members between March and June, and the meeting of GNDEM’s Coordinating Committee in Nairobi, Kenya from June 24 to 26, 2024. The plan reviews and affirms GNDEM’s vision, mission, core values, and guiding principles. 

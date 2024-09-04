@@ -21,6 +21,7 @@ tags:
   - SADC ESN
   - WAEON
   - Global
+  - GNDEM Updates
 ---
 
 From June 24 to 26, 2024, GNDEM’s Coordinating Committee, comprised of representatives from GNDEM’s nine regional networks, met in Nairobi, Kenya for the 2024 Strategic Planning and the Implementation Meeting of the Declaration of Global Principles (DoGP) for Nonpartisan Election Observation and Monitoring by Citizen Organizations. At the end of the three-day meeting, the Committee elected the new GNDEM Board for the period 2024-2028.

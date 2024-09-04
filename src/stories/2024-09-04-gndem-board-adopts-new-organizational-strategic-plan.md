@@ -35,25 +35,21 @@ Recognizing the importance of clear standards to guide member organizations in t
 As the state of observers’ rights around the world remains under threat, GNDEM’s leadership conducted an analysis of stakeholders and strengths, weaknesses, opportunities, and threats. Based on our mandate and the outcomes of these analyses, the plan outlines four key strategy priority areas and corresponding goals that GNDEM will focus on over the next five years:
 
 **1. GNDEM Members Capacity Strengthening and Coordination**
-
 *Strategic Goal: Enhanced capacity and coordination of GNDEM members and regional networks to deliver on their mandate.*
 
 This strategic priority area will strengthen the capacity of GNDEM members—national organizations and regional networks—to deliver their mandates. The focus area will also encourage collaboration and coordination initiatives among members to foster best practices, experience sharing, and solidarity.
 
 **2. Recognition, Promotion, and Protection of Citizen Election Observer Rights**
-
 *Strategic Goal: Improved response to growing threats and violation of citizen election observer rights globally.*
 
 This strategic priority area will focus on championing the recognition, promotion, and protection of citizen election observer rights globally.
 
 **3. Harnessing Emerging Opportunities and Addressing Threats to Electoral Integrity Globally**
-
 *Strategic Goal: Enhanced thought leadership and voice on emerging opportunities and threats to electoral integrity globally.*
 
 Appreciating growing threats to electoral integrity globally, GNDEM will endeavor to position itself as a leader and credible voice, highlighting emerging threats to electoral integrity and opportunities to harness electoral integrity globally.
 
 **4. Institutional Excellence**
-
 *Strategic Goal: Enhanced research and knowledge management for evidence-based advocacy, lobbying, and democratic development.*
 
 This strategic focus area examines internal organizational well-being and seeks to strengthen GNDEM’s internal capacity and competence to deliver quality services while ensuring sustainability.

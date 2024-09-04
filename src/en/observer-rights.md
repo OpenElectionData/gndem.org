@@ -4,8 +4,6 @@ draft: false
 layout: page
 ---
 
-<h3>Observer rights</h3>
-
 The following table details reported instances of observer rights violations.
 
 <table id="obs_rights_table">

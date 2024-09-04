@@ -122,7 +122,7 @@
     }
   }
 
-  tr.even {
+  tr:nth-child(even) {
     background-color: $off-white;
   }
 }

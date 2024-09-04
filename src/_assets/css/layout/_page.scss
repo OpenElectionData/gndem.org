@@ -122,8 +122,10 @@
     }
   }
 
-  tr:nth-child(even) {
-    background-color: $off-white;
+  tbody {
+    tr:nth-child(even) {
+      background-color: $off-white;
+    }
   }
 }
 

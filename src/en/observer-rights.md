@@ -6,7 +6,7 @@ layout: page
 
 The following table details reported instances of observer rights violations.
 
-<table id="obs_rights_table">
+<table id="member_table">
   <thead>
     <tr>
       <th>Violation Types</th>

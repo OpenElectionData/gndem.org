@@ -118,13 +118,14 @@
   thead {
     th {
       text-align: left;
-      padding-bottom: 8px;
+      padding-bottom: 8px 10px;
     }
   }
 
   tbody {
     tr:nth-child(even) {
       background-color: $off-white;
+      padding-bottom: 8px 10px;
     }
   }
 }

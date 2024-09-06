@@ -123,13 +123,15 @@
   }
 
   tbody {
-    tr:nth-child(even) {
-      background-color: $off-white;
-      
-      td {
-        padding: 8px 10px;
-      }
     }
+    tr:nth-child(even) {
+      background-color: $off-white;      
+    }
+    
+    td {
+      padding: 8px 10px;
+    }
+
   }
 }
 

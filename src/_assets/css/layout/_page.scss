@@ -125,7 +125,10 @@
   tbody {
     tr:nth-child(even) {
       background-color: $off-white;
-      padding-bottom: 8px 10px;
+      
+      td {
+        padding-bottom: 8px 10px;
+      }
     }
   }
 }

@@ -1,23 +1,24 @@
 ---
-title:
+title: >-
   GNDEM Special Note on UN Special Rapporteurs Statement Explicitly Recognizing
-  Election Observers and Human Rights Defenders
-date: 2022-11-01
+  Election Observers as Human Rights Defenders
+date: 2022-11-01T00:00:00.000Z
 image: ''
-excerpt:
-  The United Nations Special Rapporteurs on the situation of human rights defenders
-  and on the right to freedom and peaceful assembly and of associations issued a statement
-  on 27 October 2022 explicitly recognizing citizen and international election observers
-  as human rights defenders. This statement marks the first time election observers
-  have been explicitly defined as human rights defenders, and comes in light of restricting
-  space for and rights of election observers.
+excerpt: >-
+  The United Nations Special Rapporteurs on the situation of human rights
+  defenders and on the right to freedom and peaceful assembly and of
+  associations issued a statement on 27 October 2022 explicitly recognizing
+  citizen and international election observers as human rights defenders. This
+  statement marks the first time election observers have been explicitly defined
+  as human rights defenders, and comes in light of restricting space for and
+  rights of election observers.
 tags:
   - Election day observation
   - Global
   - Solidarity
 ---
 
-The United Nations Special Rapporteurs on the situation of human rights defenders and on the right to freedom and peaceful assembly and of associations issued [a statement on 27 October 2022 explicitly recognizing citizen and international election observers as human rights defenders. ](https://srdefenders.org/information/the-situation-of-election-observers-as-human-rights-defenders%ef%bf%bc/ 'UN Special Rapporteurs statement')
+The United Nations Special Rapporteurs on the situation of human rights defenders and on the right to freedom and peaceful assembly and of associations issued [a statement on 27 October 2022 explicitly recognizing citizen and international election observers as human rights defenders. ](https://srdefenders.org/information/the-situation-of-election-observers-as-human-rights-defenders%ef%bf%bc/ "UN Special Rapporteurs statement")
 
 This statement marks the first time election observers have been explicitly defined as human rights defenders, and comes in light of restricting space for and rights of election observers.
 

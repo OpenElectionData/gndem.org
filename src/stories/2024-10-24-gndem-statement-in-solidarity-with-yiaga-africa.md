@@ -1,5 +1,5 @@
 ---
-title: GNDEM Statement in Solidarity with Yiaga Africa
+title: GNDEM Expresses its Solidarity with Citizen Observers in Nigeria
 date: 2024-10-24T00:00:00.000Z
 excerpt: >-
   The Global Network of Domestic Election Monitors (GNDEM) stands in solidarity

@@ -3,6 +3,7 @@ title: >-
   GNDEM Expresses Its Concern with Challenges to the Credibility of Citizen
   Observers in Georgia
 date: 2024-11-06T00:00:00.000Z
+draft: true
 excerpt: >-
   GNDEM expresses its deep concern with recent statements made against GNDEM
   members ISFED and GYLA in Georgia, undermining their credibility and

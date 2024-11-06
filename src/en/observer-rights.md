@@ -1,8 +1,7 @@
 ---
 title: Observer Rights
 draft: false
-layout:
-  - page
+layout: page
 ---
 
 As the Declaration of Global Principles for Non-Partisan Election Observation and Monitoring By Citizen Organizations (DoGP) acknowledges, genuine democratic elections are the peoples’ expression of sovereignty and a right of citizens. Nonpartisan citizen election monitoring enhances election integrity, promotes public confidence in the legitimacy of results, holds governments accountable, contributes to safeguarding genuine elections and mitigates potential conflicts. For their work promoting democratic and inclusive processes and government accountability as well as protecting civil and political rights, election observers have been recognized as human rights defenders by the [United Nations Special Rapporteurs on the situation of human rights defenders and on the rights to freedom of peaceful assembly and of association](https://srdefenders.org/information/the-situation-of-election-observers-as-human-rights-defenders%ef%bf%bc/ "United Nations Special Rapporteurs on the situation of human rights defenders and on the rights to freedom of peaceful assembly and of association") as well as by the [Inter-American Commission on Human Rights (IACHR)](https://www.oas.org/en/IACHR/jsForm/?File=/en/iachr/media_center/PReleases/2024/112.asp "Inter-American Commission on Human Rights (IACHR)").

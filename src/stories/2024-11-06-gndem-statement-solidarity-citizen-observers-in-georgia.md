@@ -4,6 +4,11 @@ title: >-
   Observers in Georgia
 date: 2024-11-06T00:00:00.000Z
 draft: true
+excerpt: >-
+  GNDEM expresses its deep concern with recent statements made against GNDEM
+  members ISFED and GYLA in Georgia, undermining their credibility and
+  challenging their observation methodologies. GNDEM stands in solidarity with
+  credible and independent Georgian citizen observers.
 tags:
   - Eurasia
   - Global

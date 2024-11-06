@@ -1,15 +1,26 @@
 ---
-title: GNDEM Statement of Solidarity with Election Observers in Tunisia
+title: GNDEM Expresses Its Solidarity with Citizen Election Observers in Tunisia
 date: 2024-11-06T00:00:00.000Z
 draft: true
-excerpt: ''
+excerpt: >-
+  GNDEM expresses its deep concern with the Tunisian Independent Higher
+  Authority for Elections’ further restrictions on nonpartisan citizen election
+  observer groups that attempted to monitor the October 6, 2024 presidential
+  election. Following GNDEM’s earlier statement in August addressing the denial
+  of accreditation for I Watch, the ISIE raised allegations and expanded
+  restrictions to include several other electoral observation groups, including
+  GNDEM member Mourakiboun. This is the first election in Tunisia to take place
+  without the presence of these independent citizen observation organizations
+  since 2011. The refusal to accredit nonpartisan citizen observers hampers the
+  rights of the people of Tunisia to provide independent oversight over their
+  country’s elections.
 tags:
   - Global
   - Citizen observer rights
   - Solidarity
 ---
 
-The Global Network of Domestic Election Monitors (GNDEM) expresses its deep concern with the Tunisian Independent Higher Authority for Elections’ (ISIE) further restrictions on nonpartisan citizen election observer groups that attempted to monitor the October 6, 2024 presidential election. Following GNDEM’s earlier statement in August addressing the denial of accreditation for [I Watch](https://iwatch.tn/ar/ "I Watch"), the ISIE raised allegations and expanded restrictions to include several other electoral observation groups, including GNDEM member [Mourakiboun](http://www.mourakiboun.org/ "Mourakiboun"). This is the first election in Tunisia to take place without the presence of these independent citizen observation organizations since 2011. The refusal to accredit nonpartisan citizen observers hampers the rights of the people of Tunisia to provide independent oversight over their country’s elections.
+The Global Network of Domestic Election Monitors (GNDEM) expresses its deep concern with the Tunisian Independent Higher Authority for Elections’ (ISIE) further restrictions on nonpartisan citizen election observer groups that attempted to monitor the October 6, 2024 presidential election. Following GNDEM’s earlier [statement](https://gndem.org/stories/gndem-solidarity-statement-i-watch-tunisia/ "GNDEM statement") in August addressing the denial of accreditation for [I Watch](https://iwatch.tn/ar/ "I Watch"), the ISIE raised allegations and expanded restrictions to include several other electoral observation groups, including GNDEM member [Mourakiboun](http://www.mourakiboun.org/ "Mourakiboun"). This is the first election in Tunisia to take place without the presence of these independent citizen observation organizations since 2011. The refusal to accredit nonpartisan citizen observers hampers the rights of the people of Tunisia to provide independent oversight over their country’s elections.
 
 Prior to the election, nonpartisan citizen observers repeatedly denounced the attempts to deny their accreditation to observe the electoral process as well as their right to conduct a Process and Results Verification for Transparency (PRVT). The ISIE’s decision to block their efforts has hindered the nation’s democratic development and weakened the public’s faith in the electoral process. Attempts by election officials to dispute the credibility and independence of nonpartisan election monitors harms confidence in the electoral process and violates the rights of election observers.
 

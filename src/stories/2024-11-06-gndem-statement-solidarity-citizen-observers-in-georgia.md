@@ -9,6 +9,7 @@ tags:
   - Global
   - Citizen observer rights
   - Solidarity
+  - Election day observation
 ---
 
 GNDEM expresses its deep concern with recent statements made against GNDEM members the [International Society for Fair Elections and Democracy (ISFED)](https://isfed.ge/ "International Society for Fair Elections and Democracy (ISFED)") and the [Georgian Young Lawyers' Association (GYLA)](https://gyla.ge/en "Georgian Young Lawyers' Association (GYLA)") in Georgia, undermining their credibility and challenging their observation methodologies. GNDEM stands in solidarity with credible and independent Georgian citizen observers.

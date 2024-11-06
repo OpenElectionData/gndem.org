@@ -9,11 +9,9 @@ excerpt: >-
   election. Following GNDEM’s earlier statement in August addressing the denial
   of accreditation for I Watch, the ISIE raised allegations and expanded
   restrictions to include several other electoral observation groups, including
-  GNDEM member Mourakiboun. This is the first election in Tunisia to take place
-  without the presence of these independent citizen observation organizations
-  since 2011. The refusal to accredit nonpartisan citizen observers hampers the
-  rights of the people of Tunisia to provide independent oversight over their
-  country’s elections.
+  GNDEM member Mourakiboun. The refusal to accredit nonpartisan citizen
+  observers hampers the rights of the people of Tunisia to provide independent
+  oversight over their country’s elections.
 tags:
   - Global
   - Citizen observer rights

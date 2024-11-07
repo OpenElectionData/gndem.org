@@ -71,12 +71,84 @@ GNDEM aims to continue to highlight the issue by documenting cases and continuin
     <td>Security/presiding officers barred observers from entering 19 pollling stations.</td>
     <td><a href="https://www.arabnews.com/node/2498356/pakistan">Link</a></td>
     </tr>
-    <tr>
-    <td>Type</td>
-    <td>Month 2024</td>
-    <td>Region</td>
+  <tr>
+    <td>Legal</td>
+    <td>May 2024</td>
+    <td>Eurasia</td>
+    <td>Russia</td>
+    <td>"Foreign Agents Law" passed banning "foreign agents" from serving as election observers.</td>
+    <td><a href="https://georgiatoday.ge/russia-bans-foreign-agents-from-participating-in-elections/">Link</a></td>
+    </tr>
+  <tr>
+    <td>Violence, Intimidation, and Coercion</td>
+    <td>May 2024</td>
+    <td>Central and Eastern Europe</td>
+    <td>Serbia</td>
+    <td>A member of parliament posted personally identifiable information of multple CRTA members, obtained without authorization, from the Local Election Commission.</td>
+    <td><a href="https://x.com/crtars/status/1792989670332064174?s=46">Link</a></td>
+    </tr>
+  <tr>
+    <td>Legal</td>
+    <td>May 2024</td>
+    <td>Eurasia</td>
+    <td>Georgia</td>
+    <td>"Foreign Agents Law" passed by legislature requiring non-governmtal orgnizations that recieve 20% of their funding from abroad to register as "organizations acting in the interst of a foreign power," and submit themselves to stringent audits, or face punitive fines.</td>
+    <td><a href="https://www.bbc.com/news/articles/cxrre3qy2n4o">Link</a></td>
+    </tr>
+  <tr>
+    <td>Freedom of Expression and Information</td>
+    <td>July 2024</td>
+    <td>Latin America and Caribbean</td>
+    <td>Venezuela</td>
+    <td>CNE refused to release precint-by-precinct poll results, in violation of election law.</td>
+    <td><a href="https://apnews.com/article/venezuela-presidential-election-maduro-machado-edmundo-5ce255ae90614162590bfe1207d2e1d0">Link</a></td>
+    </tr>
+  <tr>
+    <td>Legal</td>
+    <td>August 2024</td>
+    <td>Latin American and Caribbean</td>
+    <td>Venezuela</td>
+    <td>National Assembly passed a bill requiring NGOs to report whether they receive foreign funding.</td>
+    <td><a href="https://www.reuters.com/world/americas/venezuela-legislators-approve-law-regulate-ngos-2024-08-15/">Link</a></td>
+    </tr>
+  <tr>
+    <td>Procedural and Operational Restrictions</td>
+    <td>August 2024</td>
+    <td>Middle East and North Africa</td>
+    <td>Tunisia</td>
+    <td>I Watch refused accreditation by the ISIE to observe the election.</td>
+    <td><a href="https://ultratunisia.ultrasawt.com/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AA%D8%B1%D9%81%D8%B6-%D9%85%D8%B7%D9%84%D8%A8-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A3%D9%86%D8%A7-%D9%8A%D9%82%D8%B8-%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/%D8%A7%D9%84%D8%AA%D8%B1%D8%A7-%D8%AA%D9%88%D9%86%D8%B3/%D8%B3%DB%8C%D8%A7%D8%B3%D8%A9/%D8%A7%D9%94%D8%AE%D8%A8%D8%A7%D8%B1">Link</a></td>
+    </tr>
+  <tr>
+    <td>Procedural and Operational Restrictions</td>
+    <td>September 2024</td>
+    <td>Eurasia</td>
+    <td>Azerbaijan</td>
+    <td>Observers threatened by law enforcement agencies questioned by the CEC about their intentions to monitor the elections when attempting to register. An observer was later banned from leaving the country.</td>
+    <td><a href="https://epde.org/wp-content/uploads/2024/08/EPDE_Report_parliamentary_Sep2024_FIN.pdf">Link</a></td>
+    </tr>
+  <tr>
+    <td>Procedural and Operational Restrictions</td>
+    <td>September 2024</td>
+    <td>Middle East and North Africa</td>
+    <td>Tunisia</td>
+    <td>Mourakiboun refused accreditation by the ISIE to observe the election.</td>
+    <td><a href="https://apnews.com/article/tunisia-poll-monitors-election-accreditation-presidential-vote-2c84de290135e410860f5c24f9ce375a">Link</a></td>
+    </tr>
+  <tr>
+    <td>Procedural and Operational Restrictions</td>
+    <td>September 2024</td>
+    <td>Georgia</td>
     <td>Country</td>
-    <td>Description</td>
+    <td>Anti-Corruption Bureau attempted to bar TI Georgia from being acredited as nonpartisan observers by delcaring them "political actors," and decision was changed at the request of the Prime Minister.</td>
+    <td><a href="https://civil.ge/archives/626870">Link</a></td>
+    </tr>
+  <tr>
+    <td>Procedural and Operational Restrictions</td>
+    <td>October 2024</td>
+    <td>Southern and East Africa</td>
+    <td>Mozambique</td>
+    <td>A Provincial Elections Commission failed to issue credentials for most election observers within the legal deadline.</td>
     <td><a href="https://www.google.com/">Link</a></td>
     </tr>
 </table>

@@ -72,6 +72,14 @@ GNDEM aims to continue to highlight the issue by documenting cases and continuin
     <td><a href="https://www.arabnews.com/node/2498356/pakistan">Link</a></td>
     </tr>
   <tr>
+    <td>Violence, Intimidation, and Coercion</td>
+    <td>May 2024</td>
+    <td>Eurasia</td>
+    <td>Azerbaijan</td>
+    <td>Anar Mamadli, head of the Election Monitoring and Democracy Studies Center (EMDS), was aarrested and imprisoned without a trial on politically-motivated charges.</td>
+    <td><a href="https://www.euractiv.com/section/azerbaijan/news/azerbaijan-puts-activist-in-pre-trial-custody-on-smuggling-charge-he-denies/">Link</a></td>
+    </tr>
+  <tr>
     <td>Legal</td>
     <td>May 2024</td>
     <td>Eurasia</td>

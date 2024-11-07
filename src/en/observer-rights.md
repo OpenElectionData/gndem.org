@@ -76,7 +76,7 @@ GNDEM aims to continue to highlight the issue by documenting cases and continuin
     <td>May 2024</td>
     <td>Eurasia</td>
     <td>Azerbaijan</td>
-    <td>Anar Mamadli, head of the Election Monitoring and Democracy Studies Center (EMDS), was aarrested and imprisoned without a trial on politically-motivated charges.</td>
+    <td>Anar Mamadli, head of the Election Monitoring and Democracy Studies Center (EMDS), was arrested and imprisoned without a trial on politically-motivated charges.</td>
     <td><a href="https://www.euractiv.com/section/azerbaijan/news/azerbaijan-puts-activist-in-pre-trial-custody-on-smuggling-charge-he-denies/">Link</a></td>
     </tr>
   <tr>
@@ -146,8 +146,8 @@ GNDEM aims to continue to highlight the issue by documenting cases and continuin
   <tr>
     <td>Procedural and Operational Restrictions</td>
     <td>September 2024</td>
+    <td>Eurasia</td>
     <td>Georgia</td>
-    <td>Country</td>
     <td>Anti-Corruption Bureau attempted to bar TI Georgia from being acredited as nonpartisan observers by delcaring them "political actors," and decision was changed at the request of the Prime Minister.</td>
     <td><a href="https://civil.ge/archives/626870">Link</a></td>
     </tr>

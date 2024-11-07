@@ -23,35 +23,35 @@ GNDEM aims to continue to highlight the issue by documenting cases and continuin
   </thead>
  <tbody>
   <tr>
-    <td>Accreditation</td>
-    <td>August 2024</td>
-    <td>Africa</td>
-    <td>Sample</td>
-    <td>Accreditation severely delayed</td>
-    <td><a href="https://www.reuters.com">Link</a></td>
+    <td>Violence, Intimidation, and Coercion</td>
+    <td>January 2024</td>
+    <td>Central and Eastern Europe</td>
+    <td>Serbia</td>
+    <td>Ruling party politicians called for banning CRTA and the arrest of its leaders. Government officials questioned the group's funding and accused them of misleading the public. </td>
+    <td><a href="https://gndem.org/stories/gndem-solidarity-statement-serbia-crta/">Link</a></td>
     </tr>
   <tr>
-    <td>Accreditation</td>
-    <td>August 2024</td>
-    <td>Africa</td>
-    <td>Sample</td>
-    <td>Accreditation severely delayed</td>
-    <td><a href="https://www.reuters.com">Link</a></td>
+    <td>Procedural and Operational Restrictions</td>
+    <td>February 2024</td>
+    <td>Eurasia</td>
+    <td>Azerbaijan</td>
+    <td>The CEC reduced the transparency of the accreditation processes by making it unclear as to who was allowed to observe.</td>
+    <td><a href="https://smdtaz.org/smdt-7-fevral-2024-cu-ild%c9%99-kecirilmis-novb%c9%99d%c9%99nk%c9%99nar-prezident-seckisinin-musahid%c9%99l%c9%99rinin-n%c9%99tic%c9%99l%c9%99rin%c9%99-dair-ilkin-r%c9%99yini-aciqlayib/">Link</a></td>
     </tr>
     </tbody>
-      <td>Accreditation</td>
-    <td>August 2024</td>
-    <td>Africa</td>
-    <td>Sample</td>
-    <td>Accreditation severely delayed</td>
-    <td><a href="https://www.reuters.com">Link</a></td>
+    <td>Procedural and Operational Restrictions</td>
+    <td>March 2024</td>
+    <td>Central and West Africa</td>
+    <td>Nigeria</td>
+    <td>The INEC said it will no longer register CSOs to monitor future elections if they do not submit observation reports following their observation of elections. </td>
+    <td><a href="https://www.premiumtimesng.com/news/top-news/679303-inec-threatens-to-bar-some-csos-from-monitoring-future-elections.html?tztc=1">Link</a></td>
     </tr>
   <tr>
-    <td>Accreditation</td>
-    <td>August 2024</td>
-    <td>Africa</td>
+    <td>Type</td>
+    <td>Month 2024</td>
+    <td>Region</td>
     <td>Sample</td>
-    <td>Accreditation severely delayed</td>
+    <td>Description</td>
     <td><a href="https://www.reuters.com">Link</a></td>
     </tr>
     </tbody>

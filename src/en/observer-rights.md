@@ -47,12 +47,36 @@ GNDEM aims to continue to highlight the issue by documenting cases and continuin
     <td><a href="https://www.premiumtimesng.com/news/top-news/679303-inec-threatens-to-bar-some-csos-from-monitoring-future-elections.html?tztc=1">Link</a></td>
     </tr>
   <tr>
+    <td>Procedural and Operational Restrictions</td>
+    <td>March 2024</td>
+    <td>Southern and East Africa</td>
+    <td>Mozambique</td>
+    <td>Centre for Public Integrity (CIP) was refused accreditation to report on voter registration.</td>
+    <td><a href="https://clubofmozambique.com/news/mozambique-elections-cip-accuses-electoral-bodies-of-refusing-to-provide-credentials-256000/">Link</a></td>
+    </tr>
+    </tbody>
+  <tr>
+    <td>Procedural and Operation Restrictions</td>
+    <td>April 2024</td>
+    <td>Southern and East Africa</td>
+    <td>Mozambique</td>
+    <td>CIP correspondents were refused access to registration posts as election officials claimed their accreditation badges were "not enough."</td>
+    <td><a href="https://allafrica.com/stories/202404050020.html">Link</a></td>
+    </tr>
+  <tr>
+    <td>Violence, Intimidation, and Coercion</td>
+    <td>April 2024</td>
+    <td>Asia</td>
+    <td>Pakistan</td>
+    <td>Security/presiding officers barred observers from entering 19 pollling stations.</td>
+    <td><a href="https://www.arabnews.com/node/2498356/pakistan">Link</a></td>
+    </tr>
+    <tr>
     <td>Type</td>
     <td>Month 2024</td>
     <td>Region</td>
-    <td>Sample</td>
+    <td>Country</td>
     <td>Description</td>
-    <td><a href="https://www.reuters.com">Link</a></td>
+    <td><a href="https://www.google.com/">Link</a></td>
     </tr>
-    </tbody>
 </table>

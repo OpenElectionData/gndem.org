@@ -14,6 +14,7 @@ tags:
   - Solidarity
   - Citizen observer rights
   - RedOIE
+  - Latin America and the Caribbean
 ---
 
 The Global Network of Domestic Election Monitors (GNDEM) expresses its deep concern over the lack of transparency and the harassment of civic activists and party pollwatchers following the July 2024 presidential election in Venezuela.

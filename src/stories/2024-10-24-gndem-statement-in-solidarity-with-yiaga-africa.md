@@ -10,6 +10,7 @@ tags:
   - GNDEM Updates
   - Solidarity
   - Citizen observer rights
+  - West Africa
 ---
 
 The Global Network of Domestic Election Monitors (GNDEM) stands in solidarity with the citizen election observation organization and GNDEM member Yiaga Africa in Nigeria and condemns efforts to discredit independent nonpartisan citizen election observers. 

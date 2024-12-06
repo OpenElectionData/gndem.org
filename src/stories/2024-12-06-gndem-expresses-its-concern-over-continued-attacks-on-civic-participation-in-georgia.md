@@ -7,12 +7,13 @@ excerpt: >-
   GNDEM again expresses its concern over continued efforts to restrict civic
   space in Georgia given the recent announcement of the full implementation of
   the Russian-style foreign influence law.
+tags:
+  - Citizen observer rights
+  - Solidarity
+  - Eurasia
 ---
 
 GNDEM again expresses its concern over continued efforts to restrict civic space in Georgia given the recent announcement of the full implementation of the Russian-style foreign influence law. The law drastically restricts the rights of citizen election observers to participate in their country’s political affairs, and spurred wide-scale protests earlier this year due to the it’s threats to citizens’ rights to participate in public affairs and hold institutions accountable. This announcement comes amidst the arrest of civic activists and disproportionate violence against ongoing peaceful protests following the October 2024 parliamentary elections in Georgia.
-
-
-
 
 This builds upon GNDEM’s earlier statements addressing [Georgia’s Russian-style foreign influence law](https://gndem.org/stories/gndem-solidarity-statement-georgia/) and [other efforts to undermine the credibility](https://gndem.org/stories/gndem-statement-solidarity-citizen-observers-in-georgia/) of citizen election observers following the October 26 parliamentary election. GNDEM stands in solidarity with credible and independent Georgian citizen observers as they promote transparency and safeguard election integrity, and as they express their constitutional and human rights to freedom of assembly and speech. 
 

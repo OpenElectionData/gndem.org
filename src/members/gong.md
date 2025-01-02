@@ -1,10 +1,11 @@
 ---
-region: CEE
-country: Croatia
-name: GONG
-acronym: 
-is_member: yes
-no_gndem_member_countries: 
+is_member: 'yes'
+no_gndem_member_countries: null
 regional_network: ENEMO
-website: http://gong.hr/hr/
+name: Gong
+country: Croatia
+region: CEE
+acronym: null
+website: 'http://gong.hr/hr/'
 ---
+

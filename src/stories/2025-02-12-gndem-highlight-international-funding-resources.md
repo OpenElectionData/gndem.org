@@ -1,7 +1,7 @@
 ---
 title: 'GNDEM Highlight: International Funding Resources'
 date: 2025-02-12T00:00:00.000Z
-draft: true
+draft: false
 excerpt: >-
   GNDEM would like to highlight funding opportunities for elections and
   democracy-related projects. We encourage GNDEM members to explore these
@@ -19,18 +19,17 @@ The [United Nations Democracy Fund (UNDEF)](https://www.un.org/democracyfund/) h
 
 Who Can Submit Project Proposals?
 
-According to UNDEF, those eligible to apply include civil society organizations, non-governmental organizations, independent and constitutional bodies, including election commissions, national human rights institutions, and global and regional intergovernmental bodies. UNDEF’s priority is Civil Society Organizations and Non-Governmental Organizations and the large majority of UNDEF funds go to local civil society organizations; both in the transition and consolidation phases of democratization. The organization must be legally constituted. 
+According to UNDEF, those eligible to apply include civil society organizations, non-governmental organizations, independent and constitutional bodies, including election commissions, national human rights institutions, and global and regional intergovernmental bodies. UNDEF’s priority is Civil Society Organizations and Non-Governmental Organizations and the large majority of UNDEF funds go to local civil society organizations; both in the transition and consolidation phases of democratization. The organization must be legally constituted.
 
 What Kind of Projects Does UNDEF Support?
 
 UNDEF projects can fall under one or more of eight main areas: Women's Leadership and Gender Equality; Community Activism; Rule of Law and Human Rights; Youth Engagement; Strengthening Civil Society Interaction with Government; Media and Freedom of Information; Electoral Processes. Applicants can apply for a minimum of $100,000 US dollars and a maximum of $200,000 US dollars.
 
-
 [Click here](https://www.un.org/democracyfund/content/when-apply-and-who-can-apply) to find more information on how to apply for a UNDEF project grant and the selection process.
 
 ### European Endowment for Democracy: Apply for Support
 
-The [European Endowment for Democracy (EED)](https://www.democracyendowment.eu/) is accepting funding applications on a rolling basis. The EED supports civil society organizations, movements, independent media, youth groups, and individual activists - established and newly created - working towards a pluralistic democratic political system. Official registration is not required for EED support. A particular focus of EED's work is supporting those that cannot be supported by other donors and existing EU instruments. 
+The [European Endowment for Democracy (EED)](https://www.democracyendowment.eu/) is accepting funding applications on a rolling basis. The EED supports civil society organizations, movements, independent media, youth groups, and individual activists - established and newly created - working towards a pluralistic democratic political system. Official registration is not required for EED support. A particular focus of EED's work is supporting those that cannot be supported by other donors and existing EU instruments.
 
 How to Apply
 

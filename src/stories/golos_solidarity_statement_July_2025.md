@@ -1,7 +1,7 @@
 ---
 title: >-
-  GNDEM Condemns Russia Ruthlessly Undermining of Independent Nonpartisan
-  Citizen Observation
+  GNDEM Condemns Russia Ruthlessly Undermining Independent Nonpartisan Citizen
+  Observation
 date: 2025-07-18T00:00:00.000Z
 excerpt: >-
   The Global Network of Domestic Election Monitors (GNDEM) condemns the actions

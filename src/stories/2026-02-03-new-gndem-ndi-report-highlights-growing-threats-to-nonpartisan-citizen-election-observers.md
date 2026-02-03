@@ -1,7 +1,7 @@
 ---
 title: New GNDEM/NDI Report Highlights Growing Threats to Nonpartisan Citizen Election Observers
 date: 2026-02-03T00:00:00.000Z
-excerpt: 'The Global Network for Domestic Election Monitors (GNDEM), in partnership with the National Democratic Institute (NDI), today launched the first ever Report on the Global State of Nonpartisan Citizen Election Observers’ Rights, an assessment of the threats facing election observers worldwide. Elections are a cornerstone of democratic governance and a prerequisite for long-term stability and development. Citizen observers are on the frontlines protecting citizens’ right to vote and promoting more participatory, transparent and accountable elections. '
+excerpt: 'The Global Network for Domestic Election Monitors (GNDEM), in partnership with the National Democratic Institute (NDI), today launched the first ever Report on the Global State of Nonpartisan Citizen Election Observers’ Rights, an assessment of the threats facing election observers worldwide. Elections are a cornerstone of democratic governance and a prerequisite for long-term stability and development. Citizen observers are on the frontlines protecting citizens’ right to vote and promoting more participatory, transparent and accountable elections.'
 tags:
   - Citizen observer rights
 ---

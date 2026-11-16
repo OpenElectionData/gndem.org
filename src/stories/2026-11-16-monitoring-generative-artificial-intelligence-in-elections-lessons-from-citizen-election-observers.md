@@ -1,0 +1,47 @@
+---
+title: 'Monitoring Generative Artificial Intelligence in Elections: Lessons from citizen election observers'
+date: 2026-11-16T00:00:00.000Z
+image: /uploads/gndem genAI webimar.jpg
+excerpt: |
+  Generative Artificial Intelligence (AI) is increasingly being used to inform voters, support various aspects of election administration, and offers an accessible tool for creating synthetic profiles and content used for online electoral campaigns. These developments bring new opportunities; however, they also raise challenges for electoral integrity. From chatbots providing inaccurate information about electoral processes to synthetic content used to deceive voters or attack political contestants, generative AI is changing the information environment surrounding elections. These issues were at the center of the Global Network of Domestic Election Monitors’ (GNDEM) webinar “Monitoring Generative AI in Elections”. It explored the challenges generative AI presents in the electoral processes and discussed how the global community of citizen election observers can develop methods to assess and mitigate its negative impacts on electoral integrity.
+tags:
+  - GNDEM Updates
+---
+
+Generative Artificial Intelligence (AI) is starting to play a prominent role in many aspects of our daily lives, from education to healthcare, and elections are no exception. Generative AI is increasingly being used to inform voters, support various aspects of election administration, and offers an accessible tool for creating synthetic profiles and content used for online electoral campaigns. These developments bring new opportunities; however, they also raise challenges for electoral integrity. From chatbots providing inaccurate information about electoral processes to synthetic content used to deceive voters or attack political contestants (and disproportionately impacting women), generative AI is changing the information environment surrounding elections.
+
+These issues were at the center of the [Global Network of Domestic Election Monitors’ (GNDEM)](https://gndem.org/) webinar “Monitoring Generative AI in Elections”. Bringing together election observation leaders, researchers, developers and practitioners the webinar built on the recently released “[Synthetic Voices Real Voters: A Guide to Monitoring Generative AI in Elections for Nonpartisan Citizen Observers](https://ndi.org/publications/synthetic-voices-real-voters-guide-monitoring-generative-ai-elections-nonpartisan)”. It explored the challenges generative AI presents in the electoral processes and discussed how the global community of citizen election observers can develop methods to assess and mitigate its negative impacts on electoral integrity.
+
+Understanding the uses and risks: AI in elections, voter information, and campaigns
+
+As Election Management Bodies (EMBs) are increasingly exploring the use of generative AI tools in election administration, citizen election observers need to strengthen their capacity to assess how these tools are deployed. This includes applying established principles for evaluating the introduction of new technologies in elections. From assessing the needs and defining clear objectives of the deployment of such tools passing by the testing and audit of performances bearing in mind the general oversight and ownership of EMBs as the primary responsible of election administration. Although the use of AI tools in election administration remains limited in many contexts, it is likely to evolve rapidly bringing risk that observers need to understand and assess.
+
+Chatbots are becoming an increasingly common source of electoral information for voters. They are used to answer questions ranging from basic information about voting procedures or polls opening hours to complex issues concerning election integrity, human rights or even political choices. As voters increasingly turn to these sources, election observers have a role to play in assessing the accuracy and reliability of information they provide.
+
+Generative AI also makes synthetic political content online relatively easy to create. A wide range of freely available tools are used for campaigns, political propaganda and satire. However they have also been used to create deepfakes and fabricate images or voices with the intent to mislead or manipulate voters, suppress voter participation, undermine confidence in electoral institutions or fuel attacks against political actors. Women are particularly vulnerable to synthetic political attacks which targets their appearances, their families or their gender and creates a chilling effect for women to engage politically on and offline.
+
+From Germany to Senegal, via Kosovo: Methodologies and lessons learned
+
+Research conducted by [Democracy Reporting International (DRI)](https://democracy-reporting.org/en/office/global) illustrates the growing impact of generative AI on electoral campaigning. Duncan Allen, Digital Democracy Researcher, presented findings from monitoring the recent German and European Parliament elections. The research highlights the misleading voter information about the electoral process provided in certain cases by Large Language Models (LLMs). DRI’s analysis of online campaigning also identified extensive use of synthetic AI generated content in these elections. The examples shared during the webinar illustrated the impact of AI generated images on reinforcing emotional, and at times divisive, political narratives even when users recognize the artificial nature of such content.
+
+Monitoring conducted by the [Democracy for Development Institute (D4D)](https://d4d-ks.org/en/home-en/) in Kosovo demonstrated how generative AI can compound existing patterns of tech-facilitated gender-based violence in politics. Rezarta Delibashzade-Krasniqi highlighted that these attacks often focus on women’s appearances, family relationships and gender stereotypes rather than their political views.
+
+Research conducted by [AfricTivistes](https://africtivistes.com/fr/) in Senegal examined how accurately AI chatbots provided voter information ahead of the country’s recent legislative elections. Mamadou Mbaye Dione, developer and researcher at the organization, presented findings showing that the accuracy of information provided by different platforms varied considerably. Furthermore, the research identified significant inconsistencies when the same questions were asked in different languages. The comparison revealed disparities where an answer to the same question that was correct in French gave an incorrect answer in Wolof.
+
+Citizen election observers gearing up to monitor the impact of generative AI on elections
+
+The webinar speakers emphasized that safeguarding electoral integrity requires election observers to adapt their methodologies as the use of generative AI evolves. Tetyana Bohdanova, senior election expert and Team Lead at the [European Platform for Democratic Elections (EPDE)](https://epde.org/) highlighted the importance of contextual analysis and risk assessment that organizations must conduct to adapt their methodologies to emerging risks.
+
+Additionally, Samson Itodo, Executive Director of Yiaga Africa and the Chair of the AU Advisory Group on Artificial Intelligence in Peace, Security and Governance, highlighted the need for citizen observer groups to expand their monitoring beyond disinformation circulating online. As EMBs increasingly deploy AI tools, observers must examine how these systems are designed, procured and used. This includes assessing their transparency, explainability and auditability, as well as strengthening oversight of the technology providers involved. 
+
+Meanwhile, AfricTivistes' findings demonstrate why systematic testing of electoral information provided by chatbots, including their performance across local languages, is important for understanding the risks to voter information.
+
+The conversation also highlighted the importance of cooperation. Rezarta underlined the value of building partnership with journalists, political parties, social media platforms and relevant institutions to respond to online abuses involving generative AI. 
+
+As generative AI tools continue to evolve, cooperation and experience sharing among the global community of election observers and GNDEM members will be essential by adapting their methodologies, documenting emerging risks and working with other relevant stakeholders to safeguard electoral integrity and promote informed and responsible participation in electoral processes.
+
+The election observer’s guide
+
+How can citizen election observers monitor the impact of generative AI on elections? The recently published guidebook [Synthetic Voices, Real Voters: A Guide to Monitoring Generative AI in Elections for Nonpartisan Citizen Observers](https://ndi.org/publications/synthetic-voices-real-voters-guide-monitoring-generative-ai-elections-nonpartisan) offers a practical resource for citizen election observer organizations seeking to address the issue in their own contexts. It provides guidance on how to assess the context specific risks and to design a methodology adapted to the goals defined by the organization. It introduces key concepts, monitoring methodologies and tools to assess the prevalence and impact of generative AI in elections. Discover the guide to explore how your organisation can adapt its election observation methodology to the challenges and opportunities of generative AI.
+
+
